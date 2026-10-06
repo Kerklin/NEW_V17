@@ -1,0 +1,91 @@
+# NEW_V17 – job search + fit evaluation + application packs, delivered privately by email.
+# Setup: SETUP.md. Code: agent.py, save.py. No third-party actions are used.
+# Emergency stop: repository variable AI_ENABLED = no.
+
+name: V17
+
+on:
+  schedule:
+    - cron: "2-59/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      job_url:
+        description: "Optional: one job's own link – its fit check + application pack are emailed now"
+        required: false
+        type: string
+      language:
+        description: "Language of the CV and letter"
+        required: false
+        type: choice
+        default: auto
+        options: [auto, English, Bosnian, French]
+      focus:
+        description: "Optional: what to emphasise in the CV (must be true)"
+        required: false
+        type: string
+      digest:
+        description: "Send the fit digest now"
+        required: false
+        type: boolean
+        default: false
+
+permissions: {}
+
+concurrency:
+  group: v17-${{ github.event_name == 'schedule' && 'auto' || github.run_id }}
+  cancel-in-progress: false
+
+env:
+  PAGE_TITLE: "Job tracker"   # heading of the public front page
+  PACK_MIN_FIT: "65"          # automatic packs only for jobs with fit ≥ this score (40-100)
+  PACKS_PER_DAY: "12"         # max 30 (4 AI requests each)
+  DIGEST_HOUR_UTC: "5"        # daily fit digest after this hour (5 UTC = 7:00 Central European summer time)
+  PUBLIC_FIT: "yes"           # "no" hides the coarse High/Medium/Low label on the public page
+  AI_HIGH_PER_DAY: "30"       # max 35
+  AI_LOW_PER_DAY: "100"       # max 110
+  AI_PER_HOUR: "16"           # max 20
+  SEARCH_WORDS: "construction, infrastructure, engineer, architect, rehabilitation, reconstruction, shelter, housing, site supervision, project manager, programme manager, contract manager, facilities, heritage, wash"
+  FEEDS: |
+        # Optional: extra RSS or job-board links, one per line, under this one:
+
+jobs:
+  run:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    permissions:
+      contents: write
+      issues: write
+      models: read
+    steps:
+      - name: Get the code
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          AUTH="$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
+          echo "::add-mask::$AUTH"
+          git init -q work && cd work
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
+          git remote add origin "${REMOTE_URL:-https://github.com/$GITHUB_REPOSITORY.git}"
+          git fetch -q --depth=1 origin "$GITHUB_REF_NAME"
+          git checkout -q -B "$GITHUB_REF_NAME" FETCH_HEAD
+
+      - name: Search, fit check and application packs
+        working-directory: work
+        timeout-minutes: 14
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AI_ENABLED: ${{ vars.AI_ENABLED || 'yes' }}
+          MASTER_CV: ${{ secrets.MASTER_CV }}
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_PASS: ${{ secrets.MAIL_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          BACKUP_KEY: ${{ secrets.BACKUP_KEY }}
+          SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
+        run: python3 agent.py
+
+      - name: Save
+        if: ${{ !cancelled() }}
+        working-directory: work
+        timeout-minutes: 3
+        run: python3 save.py
