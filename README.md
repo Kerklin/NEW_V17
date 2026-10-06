@@ -1,8 +1,6 @@
 # Job tracker
 
-> ⚠️ **BACKUP\_KEY is shorter than 32 characters and is not used – see SETUP.md, step 3**
-
-**21 open jobs** · updated 2026-10-06 · checks every 5 minutes · sources working today: 6 of 12 · AI today: 2 of 130 requests
+**21 open jobs** · updated 2026-10-06 · checks every 5 minutes · sources working today: 6 of 12 · AI today: 4 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
