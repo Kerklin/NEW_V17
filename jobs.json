@@ -1,0 +1,245 @@
+{
+ "meta": {
+  "sources": {
+   "ReliefWeb · construction": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · infrastructure": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · shelter": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · architect": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · engineer": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "ReliefWeb · Bosnia and Herzegovina": {
+    "last_ok": "",
+    "muted": "2026-10-06T2"
+   },
+   "unvacancies · engineering": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "unvacancies · UNOPS": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "unvacancies · UN-Habitat": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "UNjobs · Bosnia and Herzegovina": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "UNjobs · construction": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   },
+   "UNOPS careers": {
+    "last_ok": "2026-10-06",
+    "muted": ""
+   }
+  }
+ },
+ "jobs": [
+  {
+   "title": "Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/engineer--4018010",
+   "deadline": "2026-10-20",
+   "fit": "High",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer (Water Resources)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Senior Drupal Infrastructure Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157",
+   "deadline": "2026-10-09",
+   "fit": "High",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Senior Programme Manager",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-programme-manager-OPS-4692",
+   "deadline": "2026-10-30",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Housing Policy Analysis and Reporting Specialist",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341",
+   "deadline": "2026-10-21",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Housing Accessibility Policy and Design Specialist",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486",
+   "deadline": "2026-10-21",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Housing Accessibility Standards Specialist",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490",
+   "deadline": "2026-10-21",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager, Sarajevo, Bosnia and Herzegovina",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1789649136938",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1778607480538",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791125088299",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Skills Adviser Building, Construction & Workforce Development",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791176514795",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Construction Officer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791262896839",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791262902457",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing, San Jose, California, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791190532780",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manufacturing Engineer, San Jose, California, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791190534451",
+   "deadline": "",
+   "fit": "Low",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Emergency WASH Officer, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791216145217",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Emergency WASH Technical Assistant (Hard - Ebola response) DR Congo Bunia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791109152539",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791109153877",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Shelter and WaSH Officer Yemen Hodeidah (National)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791109153601",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Wash & Shelter Coordinator CAR Bouar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791109150945",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  },
+  {
+   "title": "Consultant - Field Engineer (STRONG), Banjul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791108068911",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-06",
+   "status": "open"
+  }
+ ]
+}
