@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-06T2"
+    "muted": "2026-10-07T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-07T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925",
+   "deadline": "2026-10-20",
+   "fit": "Medium",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "ENGINEER",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/engineer-N-286023",
+   "deadline": "2026-10-13",
+   "fit": "High",
+   "found": "2026-10-07",
+   "status": "open"
+  },
   {
    "title": "Engineer",
    "info": "via unvacancies · engineering",

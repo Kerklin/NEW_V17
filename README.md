@@ -1,14 +1,16 @@
 # Job tracker
 
-**21 open jobs** · updated 2026-10-07 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 2 of 130 requests
+**23 open jobs** · updated 2026-10-07 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 4 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
 | Job | Found via | Deadline | Left | Fit |
 |---|---|---|---|---|
 | [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) 🆕 | via unvacancies · engineering | 2026-10-09 | 🔴 2 days | 🟢 High |
+| [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) 🆕 | via unvacancies · engineering | 2026-10-13 | 🔴 6 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) 🆕 | via unvacancies · engineering | 2026-10-20 | 13 days | 🟢 High |
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) 🆕 | via unvacancies · engineering | – | check | 🟢 High |
+| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) 🆕 | via unvacancies · engineering | 2026-10-20 | 13 days | 🟡 Medium |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) 🆕 | via unvacancies · UN-Habitat | 2026-10-21 | 14 days | 🟡 Medium |
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) 🆕 | via unvacancies · UN-Habitat | 2026-10-21 | 14 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) 🆕 | via unvacancies · UN-Habitat | 2026-10-21 | 14 days | 🟡 Medium |
