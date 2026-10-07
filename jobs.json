@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-06T2"
+    "muted": "2026-10-07T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,87 @@
   }
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791374669552",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "WatHab Generalist Project Manager, Myanmar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791298565977",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "ENGINEER, P4",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791352896943",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791352893661",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "Engineer, Dodoma, Tanzania",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791349295461",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "Construction Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791345738022",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "Oversight & Quality Assurance Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791345734719",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "Emergency WASH Officer, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791345732215",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-07",
+   "status": "open"
+  },
+  {
+   "title": "Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791297050460",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-07",
+   "status": "open"
+  },
   {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
    "info": "via unvacancies · engineering",
