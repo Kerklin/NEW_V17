@@ -1,6 +1,6 @@
 # Job tracker
 
-**37 open jobs** · updated 2026-10-08 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 2 of 130 requests
+**42 open jobs** · updated 2026-10-08 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 4 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -9,6 +9,8 @@
 | [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) 🆕 | via unvacancies · engineering | 2026-10-09 | 🔴 1 days | 🟢 High |
 | [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) 🆕 | via unvacancies · engineering | 2026-10-13 | 🔴 5 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) 🆕 | via unvacancies · engineering | 2026-10-20 | 12 days | 🟢 High |
+| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439395420) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Construction Engineer](https://unjobs.org/vacancies/1791439393965) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394751777) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394768869) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Technical Assistant (HARD) DR Congo Beni](https://unjobs.org/vacancies/1791392501705) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -24,6 +26,9 @@
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) 🆕 | via unvacancies · UN-Habitat | 2026-10-21 | 13 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) 🆕 | via unvacancies · UN-Habitat | 2026-10-21 | 13 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) 🆕 | via unvacancies · UNOPS | 2026-10-30 | 22 days | 🟡 Medium |
+| [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1791439392752) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439391453) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791439391194) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791396181599) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791396181477) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E](https://unjobs.org/vacancies/1791352893661) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |

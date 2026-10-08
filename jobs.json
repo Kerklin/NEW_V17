@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-07T3"
+    "muted": "2026-10-08T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439395420",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-08",
+   "status": "open"
+  },
+  {
+   "title": "Construction Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439393965",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-08",
+   "status": "open"
+  },
+  {
+   "title": "Emergency WASH Officer, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439392752",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-08",
+   "status": "open"
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439391453",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-08",
+   "status": "open"
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439391194",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-08",
+   "status": "open"
+  },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
    "info": "via UNjobs · construction",
