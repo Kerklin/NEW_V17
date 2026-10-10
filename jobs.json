@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-08T3"
+    "muted": "2026-10-10T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-10",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Sanitation Engineer (Drainage Project)",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289",
+   "deadline": "2026-10-16",
+   "fit": "Medium",
+   "found": "2026-10-10",
+   "status": "open"
+  },
   {
    "title": "Facility Engineer (Civil) - NOA, Aden, Yemen",
    "info": "via UNjobs · construction",
