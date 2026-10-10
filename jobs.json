@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-09T1"
+    "muted": "2026-10-10T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-09",
+    "last_ok": "2026-10-10",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,105 @@
   }
  },
  "jobs": [
+  {
+   "title": "SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791395387894",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Associate – Shelter (Gaza Response)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791453622548",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791633706500",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "Consultant(e) national(e) en construction — appui à la gestion et suivi de proximité des projets d’infrastructures scolaires (Tanganyika), Kalemie, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791608877608",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791608868643",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791602789483",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791602789331",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "WASH Supervisor, Tyre, Lebanon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791556268009",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "Shelter Coordinator South Sudan Ulang, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565246881",
+   "deadline": "",
+   "fit": "Low",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "Shelter Officer, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565246494",
+   "deadline": "",
+   "fit": "Low",
+   "found": "2026-10-10",
+   "status": "open"
+  },
+  {
+   "title": "Wash & Shelter Officer, Bouar, Central African Republic",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565245476",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-10",
+   "status": "open"
+  },
   {
    "title": "Sanitation Engineer (Drainage Project)",
    "info": "via unvacancies · UN-Habitat",

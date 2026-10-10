@@ -1,6 +1,6 @@
 # Job tracker
 
-**45 open jobs** · updated 2026-10-10 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 6 of 130 requests
+**56 open jobs** · updated 2026-10-10 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 8 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -8,6 +8,11 @@
 |---|---|---|---|---|
 | [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | 🔴 3 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 10 days | 🟢 High |
+| [SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan](https://unjobs.org/vacancies/1791395387894) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Consultant(e) national(e) en construction — appui à la gestion et suivi de proximité des projets d’infrastructures scolaires (Tanganyika), Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791608877608) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine](https://unjobs.org/vacancies/1791608868643) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791602789483) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791602789331) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [100000000240.Facilities Coordination Officer, Doha](https://unjobs.org/vacancies/1791522050560) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WatHab Generalist Project Manager](https://unjobs.org/vacancies/1791513664020) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439395420) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -28,6 +33,10 @@
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 11 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 11 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 20 days | 🟡 Medium |
+| [Senior Project Associate – Shelter (Gaza Response)](https://unjobs.org/vacancies/1791453622548) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil](https://unjobs.org/vacancies/1791633706500) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [WASH Supervisor, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Wash & Shelter Officer, Bouar, Central African Republic](https://unjobs.org/vacancies/1791565245476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Facility Engineer (Civil) - NOA, Aden, Yemen](https://unjobs.org/vacancies/1791522065800) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1791439392752) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439391453) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
@@ -50,6 +59,8 @@
 | [Shelter and WaSH Officer Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153601) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Wash & Shelter Coordinator CAR Bouar](https://unjobs.org/vacancies/1791109150945) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Consultant - Field Engineer (STRONG), Banjul](https://unjobs.org/vacancies/1791108068911) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Shelter Coordinator South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246881) 🆕 | via UNjobs · construction | – | check | ⚪ Low |
+| [Shelter Officer, Juba](https://unjobs.org/vacancies/1791565246494) 🆕 | via UNjobs · construction | – | check | ⚪ Low |
 | [Senior Manufacturing Engineer, San Jose, California, United States](https://unjobs.org/vacancies/1791190534451) | via UNjobs · construction | – | check | ⚪ Low |
 
 <details><summary>Closed (1)</summary>
