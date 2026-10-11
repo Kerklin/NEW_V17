@@ -1,13 +1,13 @@
 # Job tracker
 
-**56 open jobs** · updated 2026-10-10 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 10 of 130 requests
+**56 open jobs** · updated 2026-10-11 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
 | Job | Found via | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | 🔴 3 days | 🟢 High |
-| [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 10 days | 🟢 High |
+| [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | 🔴 2 days | 🟢 High |
+| [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 9 days | 🟢 High |
 | [SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan](https://unjobs.org/vacancies/1791395387894) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Consultant(e) national(e) en construction — appui à la gestion et suivi de proximité des projets d’infrastructures scolaires (Tanganyika), Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791608877608) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine](https://unjobs.org/vacancies/1791608868643) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -15,8 +15,8 @@
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791602789331) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [100000000240.Facilities Coordination Officer, Doha](https://unjobs.org/vacancies/1791522050560) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WatHab Generalist Project Manager](https://unjobs.org/vacancies/1791513664020) 🆕 | via UNjobs · construction | – | check | 🟢 High |
-| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439395420) 🆕 | via UNjobs · construction | – | check | 🟢 High |
-| [Construction Engineer](https://unjobs.org/vacancies/1791439393965) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439395420) | via UNjobs · construction | – | check | 🟢 High |
+| [Construction Engineer](https://unjobs.org/vacancies/1791439393965) | via UNjobs · construction | – | check | 🟢 High |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394751777) | via UNjobs · construction | – | check | 🟢 High |
 | [SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394768869) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Technical Assistant (HARD) DR Congo Beni](https://unjobs.org/vacancies/1791392501705) | via UNjobs · construction | – | check | 🟢 High |
@@ -27,20 +27,20 @@
 | [Construction Engineer](https://unjobs.org/vacancies/1791345738022) | via UNjobs · construction | – | check | 🟢 High |
 | [Oversight & Quality Assurance Engineer](https://unjobs.org/vacancies/1791345734719) | via UNjobs · construction | – | check | 🟢 High |
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
-| [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) 🆕 | via unvacancies · UN-Habitat | 2026-10-16 | 🔴 6 days | 🟡 Medium |
-| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 10 days | 🟡 Medium |
-| [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | 11 days | 🟡 Medium |
-| [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 11 days | 🟡 Medium |
-| [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 11 days | 🟡 Medium |
-| [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 20 days | 🟡 Medium |
+| [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) 🆕 | via unvacancies · UN-Habitat | 2026-10-16 | 🔴 5 days | 🟡 Medium |
+| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 9 days | 🟡 Medium |
+| [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | 10 days | 🟡 Medium |
+| [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 10 days | 🟡 Medium |
+| [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 10 days | 🟡 Medium |
+| [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 19 days | 🟡 Medium |
 | [Senior Project Associate – Shelter (Gaza Response)](https://unjobs.org/vacancies/1791453622548) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil](https://unjobs.org/vacancies/1791633706500) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [WASH Supervisor, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Wash & Shelter Officer, Bouar, Central African Republic](https://unjobs.org/vacancies/1791565245476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Facility Engineer (Civil) - NOA, Aden, Yemen](https://unjobs.org/vacancies/1791522065800) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
-| [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1791439392752) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
-| [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439391453) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
-| [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791439391194) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1791439392752) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439391453) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791439391194) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791396181599) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791396181477) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E](https://unjobs.org/vacancies/1791352893661) | via UNjobs · construction | – | check | 🟡 Medium |
@@ -67,6 +67,6 @@
 
 | Job | Found via | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) | via unvacancies · engineering | 2026-10-09 | -1 days | 🟢 High |
+| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) | via unvacancies · engineering | 2026-10-09 | -2 days | 🟢 High |
 
 </details>
