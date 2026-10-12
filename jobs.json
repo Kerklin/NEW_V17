@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-11T1"
+    "muted": "2026-10-12T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-11T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Field Engineer COFAREADY",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535",
+   "deadline": "2026-10-26",
+   "fit": "High",
+   "found": "2026-10-12",
+   "status": "open"
+  },
   {
    "title": "SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan",
    "info": "via UNjobs · construction",
