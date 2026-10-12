@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**57 open jobs** · updated 2026-10-12 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**67 open jobs** · updated 2026-10-12 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -10,7 +10,13 @@
 |---|---|---|---|---|
 | [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | 🔴 1 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 8 days | 🟢 High |
+| [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) 🆕 | via UNjobs · construction | 2026-10-23 | 11 days | 🟢 High |
+| [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) 🆕 | via UNjobs · construction | 2026-10-23 | 11 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) 🆕 | via unvacancies · engineering | 2026-10-26 | 14 days | 🟢 High |
+| [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://unjobs.org/vacancies/1791824450489) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Manager, Facilities Transportation, Alamo](https://unjobs.org/vacancies/1791644019637) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Education Infrastructure Engineer, Damascus](https://unjobs.org/vacancies/1791813713952) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Senior Field Operations Associate – Infrastructure, Cox's Bazar](https://unjobs.org/vacancies/1791799243198) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan](https://unjobs.org/vacancies/1791395387894) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Consultant(e) national(e) en construction — appui à la gestion et suivi de proximité des projets d’infrastructures scolaires (Tanganyika), Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791608877608) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine](https://unjobs.org/vacancies/1791608868643) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -32,6 +38,7 @@
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
 | [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) 🆕 | via unvacancies · UN-Habitat | 2026-10-16 | 🔴 4 days | 🟡 Medium |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 8 days | 🟡 Medium |
+| [Biomedical Engineer, Bridgetown, Barbados](https://unjobs.org/vacancies/1791806042139) 🆕 | via UNjobs · construction | 2026-10-21 | 9 days | 🟡 Medium |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | 9 days | 🟡 Medium |
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 9 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 9 days | 🟡 Medium |
@@ -62,6 +69,9 @@
 | [Shelter and WaSH Officer Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153601) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Wash & Shelter Coordinator CAR Bouar](https://unjobs.org/vacancies/1791109150945) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Consultant - Field Engineer (STRONG), Banjul](https://unjobs.org/vacancies/1791108068911) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Field Engineer COFAREADY, Koror](https://unjobs.org/vacancies/1791748932642) 🆕 | via UNjobs · construction | – | check | ⚪ Low |
+| [Mechanical Engineer, Plant Process Systems, San Jose, California, United States](https://unjobs.org/vacancies/1791712547685) 🆕 | via UNjobs · construction | – | check | ⚪ Low |
+| [Structural Engineer, South San Francisco, United States](https://unjobs.org/vacancies/1791712770719) 🆕 | via UNjobs · construction | – | check | ⚪ Low |
 | [Shelter Coordinator South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246881) 🆕 | via UNjobs · construction | – | check | ⚪ Low |
 | [Shelter Officer, Juba](https://unjobs.org/vacancies/1791565246494) 🆕 | via UNjobs · construction | – | check | ⚪ Low |
 | [Senior Manufacturing Engineer, San Jose, California, United States](https://unjobs.org/vacancies/1791190534451) | via UNjobs · construction | – | check | ⚪ Low |

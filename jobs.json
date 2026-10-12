@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-10T3"
+    "muted": "2026-10-12T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,96 @@
   }
  },
  "jobs": [
+  {
+   "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791824450489",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Manager, Facilities Transportation, Alamo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791644019637",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Education Infrastructure Engineer, Damascus",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791813713952",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791805949717",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791806017218",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Biomedical Engineer, Bridgetown, Barbados",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791806042139",
+   "deadline": "2026-10-21",
+   "fit": "Medium",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Senior Field Operations Associate – Infrastructure, Cox's Bazar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791799243198",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Field Engineer COFAREADY, Koror",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791748932642",
+   "deadline": "",
+   "fit": "Low",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Mechanical Engineer, Plant Process Systems, San Jose, California, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791712547685",
+   "deadline": "",
+   "fit": "Low",
+   "found": "2026-10-12",
+   "status": "open"
+  },
+  {
+   "title": "Structural Engineer, South San Francisco, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791712770719",
+   "deadline": "",
+   "fit": "Low",
+   "found": "2026-10-12",
+   "status": "open"
+  },
   {
    "title": "Field Engineer COFAREADY",
    "info": "via unvacancies · engineering",
