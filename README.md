@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**67 open jobs** · updated 2026-10-13 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**68 open jobs** · updated 2026-10-13 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -13,6 +13,7 @@
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) 🆕 | via UNjobs · construction | 2026-10-23 | 10 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) 🆕 | via UNjobs · construction | 2026-10-23 | 10 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) 🆕 | via unvacancies · engineering | 2026-10-26 | 13 days | 🟢 High |
+| [National Field Engineer (3 Positions), Bangui](https://unjobs.org/vacancies/1791885638187) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://unjobs.org/vacancies/1791824450489) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Manager, Facilities Transportation, Alamo](https://unjobs.org/vacancies/1791644019637) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Education Infrastructure Engineer, Damascus](https://unjobs.org/vacancies/1791813713952) 🆕 | via UNjobs · construction | – | check | 🟢 High |
