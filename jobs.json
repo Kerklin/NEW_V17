@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-14T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,114 @@
   }
  },
  "jobs": [
+  {
+   "title": "Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792000206614",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Facilities Officer (Residential Real Estate Services) - CSFDF (Contractual), Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792000272222",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Shelter and Settlement Assistant, Nyirol, South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910845431",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Wash Technical Assistant Ethiopia North Afar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791997248968",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "WASH Specialist, Negelle",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791983259890",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "WASH Officer, Abala, Ethiopia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791983321611",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "WASH Officer, Abala, Ethiopia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791983321169",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Humanitarian WASH Technical Advisor, Addis Ababa",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791983279840",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Environment, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968019122",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Environment, London",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968018730",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Oil and Gas, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968018522",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Oil and Gas, London",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968018128",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-14",
+   "status": "open"
+  },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
    "info": "via UNjobs · construction",

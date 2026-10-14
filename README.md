@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**68 open jobs** · updated 2026-10-14 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**80 open jobs** · updated 2026-10-14 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -12,6 +12,14 @@
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) 🆕 | via UNjobs · construction | 2026-10-23 | 9 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) 🆕 | via UNjobs · construction | 2026-10-23 | 9 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) 🆕 | via unvacancies · engineering | 2026-10-26 | 12 days | 🟢 High |
+| [Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States](https://unjobs.org/vacancies/1792000206614) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Facilities Officer (Residential Real Estate Services) - CSFDF (Contractual), Washington, United States](https://unjobs.org/vacancies/1792000272222) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Shelter and Settlement Assistant, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910845431) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Wash Technical Assistant Ethiopia North Afar](https://unjobs.org/vacancies/1791997248968) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Specialist, Negelle](https://unjobs.org/vacancies/1791983259890) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Officer, Abala, Ethiopia](https://unjobs.org/vacancies/1791983321611) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Officer, Abala, Ethiopia](https://unjobs.org/vacancies/1791983321169) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Humanitarian WASH Technical Advisor, Addis Ababa](https://unjobs.org/vacancies/1791983279840) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Wash & Shelter Technical Assistant, Bouar, Central African Republic](https://unjobs.org/vacancies/1791910843659) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [National Field Engineer (3 Positions), Bangui](https://unjobs.org/vacancies/1791885638187) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://unjobs.org/vacancies/1791824450489) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -44,6 +52,10 @@
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 7 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 7 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 16 days | 🟡 Medium |
+| [Senior Manager, Sustainable Infrastructure - Environment, United States](https://unjobs.org/vacancies/1791968019122) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Senior Manager, Sustainable Infrastructure - Environment, London](https://unjobs.org/vacancies/1791968018730) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Senior Manager, Sustainable Infrastructure - Oil and Gas, United States](https://unjobs.org/vacancies/1791968018522) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Senior Manager, Sustainable Infrastructure - Oil and Gas, London](https://unjobs.org/vacancies/1791968018128) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Project Associate – Shelter (Gaza Response)](https://unjobs.org/vacancies/1791453622548) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil](https://unjobs.org/vacancies/1791633706500) | via UNjobs · construction | – | check | 🟡 Medium |
 | [WASH Supervisor, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) | via UNjobs · construction | – | check | 🟡 Medium |
