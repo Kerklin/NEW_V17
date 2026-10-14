@@ -2,12 +2,13 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**80 open jobs** · updated 2026-10-14 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**81 open jobs** · updated 2026-10-14 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
 | Job | Found via | Deadline | Left | Fit |
 |---|---|---|---|---|
+| [AI Engineer Consultant](https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363) 🆕 | via unvacancies · engineering | 2026-10-19 | 🔴 5 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 🔴 6 days | 🟢 High |
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) 🆕 | via UNjobs · construction | 2026-10-23 | 9 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) 🆕 | via UNjobs · construction | 2026-10-23 | 9 days | 🟢 High |

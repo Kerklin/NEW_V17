@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-12T0"
+    "muted": "2026-10-14T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-14T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "AI Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363",
+   "deadline": "2026-10-19",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
   {
    "title": "Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States",
    "info": "via UNjobs · construction",
