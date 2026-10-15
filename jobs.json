@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-15T1"
+    "muted": "2026-10-15T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -52,6 +52,42 @@
   }
  },
  "jobs": [
+  {
+   "title": "Field Office Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/field-office-engineer-for-internal-candidates-fixed-term-icip-fo-west-bank-grade-A-285125",
+   "deadline": "2026-10-28",
+   "fit": "Medium",
+   "found": "2026-10-15",
+   "status": "open"
+  },
+  {
+   "title": "Technical Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343",
+   "deadline": "2026-10-28",
+   "fit": "Medium",
+   "found": "2026-10-15",
+   "status": "open"
+  },
+  {
+   "title": "Team Leader IT Infrastructure – ICTP",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-10-15",
+   "status": "open"
+  },
+  {
+   "title": "Measurement, Cost and Contracts Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610",
+   "deadline": "2026-10-28",
+   "fit": "Medium",
+   "found": "2026-10-15",
+   "status": "open"
+  },
   {
    "title": "AI Engineer Consultant",
    "info": "via unvacancies · engineering",
