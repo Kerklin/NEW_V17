@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-11T3"
+    "muted": "2026-10-16T3"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "ICT Project Manager",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/ict-project-manager-OPS-4761",
+   "deadline": "2026-11-01",
+   "fit": "High",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "Biomedical Lead Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796",
+   "deadline": "2026-10-26",
+   "fit": "High",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "Housing, Land and Property Advisor",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799",
+   "deadline": "2026-10-22",
+   "fit": "Medium",
+   "found": "2026-10-16",
+   "status": "open"
+  },
   {
    "title": "Construction & Site Manager, Menongue, Angola",
    "info": "via UNjobs · construction",

@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**95 open jobs** · updated 2026-10-16 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**98 open jobs** · updated 2026-10-16 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -12,7 +12,9 @@
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 🔴 4 days | 🟢 High |
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | 🔴 7 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 7 days | 🟢 High |
+| [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) 🆕 | via unvacancies · UNOPS | 2026-10-26 | 10 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 10 days | 🟢 High |
+| [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) 🆕 | via unvacancies · UNOPS | 2026-11-01 | 16 days | 🟢 High |
 | [Construction & Site Manager, Menongue, Angola](https://unjobs.org/vacancies/1792155785200) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1792126888233) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Project Engineer – Oxy-Combustion, Brisbane, CA](https://unjobs.org/vacancies/1792126858201) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -57,6 +59,7 @@
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 5 days | 🟡 Medium |
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 5 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 5 days | 🟡 Medium |
+| [Housing, Land and Property Advisor](https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799) 🆕 | via unvacancies · UNOPS | 2026-10-22 | 🔴 6 days | 🟡 Medium |
 | [Field Office Engineer](https://unvacancies.org/jobs/field-office-engineer-for-internal-candidates-fixed-term-icip-fo-west-bank-grade-A-285125) 🆕 | via unvacancies · engineering | 2026-10-28 | 12 days | 🟡 Medium |
 | [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) 🆕 | via unvacancies · engineering | 2026-10-28 | 12 days | 🟡 Medium |
 | [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) 🆕 | via unvacancies · engineering | 2026-10-28 | 12 days | 🟡 Medium |
