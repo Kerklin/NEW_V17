@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**98 open jobs** · updated 2026-10-16 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**103 open jobs** · updated 2026-10-16 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -15,6 +15,8 @@
 | [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) 🆕 | via unvacancies · UNOPS | 2026-10-26 | 10 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 10 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) 🆕 | via unvacancies · UNOPS | 2026-11-01 | 16 days | 🟢 High |
+| [Senior Safeguards Coordinator, Infrastructure, Port Moresby](https://unjobs.org/vacancies/1792126888621) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Infrastructure Short Term Adviser (STA)](https://unjobs.org/vacancies/1792126888482) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Construction & Site Manager, Menongue, Angola](https://unjobs.org/vacancies/1792155785200) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1792126888233) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Project Engineer – Oxy-Combustion, Brisbane, CA](https://unjobs.org/vacancies/1792126858201) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -65,6 +67,9 @@
 | [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) 🆕 | via unvacancies · engineering | 2026-10-28 | 12 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 14 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) 🆕 | via unvacancies · engineering | 2026-11-16 | 31 days | 🟡 Medium |
+| [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Technical Engineer Consultant, Chisinau, Moldova, 8 months (Remote)](https://unjobs.org/vacancies/1792083758670) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1792101952882) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792101948135) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1792101947916) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
