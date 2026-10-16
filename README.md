@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**85 open jobs** · updated 2026-10-16 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**94 open jobs** · updated 2026-10-16 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -13,6 +13,10 @@
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | 🔴 7 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 7 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 10 days | 🟢 High |
+| [CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1792126888233) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Senior Project Engineer – Oxy-Combustion, Brisbane, CA](https://unjobs.org/vacancies/1792126858201) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792101963327) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Officer CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083873447) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States](https://unjobs.org/vacancies/1792000206614) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Facilities Officer (Residential Real Estate Services) - CSFDF (Contractual), Washington, United States](https://unjobs.org/vacancies/1792000272222) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Shelter and Settlement Assistant, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910845431) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -57,6 +61,11 @@
 | [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) 🆕 | via unvacancies · engineering | 2026-10-28 | 12 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 14 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) 🆕 | via unvacancies · engineering | 2026-11-16 | 31 days | 🟡 Medium |
+| [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1792101952882) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792101948135) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1792101947916) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083872868) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Senior Project Engineer – Solar & BESS, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029648292) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Manager, Sustainable Infrastructure - Environment, United States](https://unjobs.org/vacancies/1791968019122) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Manager, Sustainable Infrastructure - Environment, London](https://unjobs.org/vacancies/1791968018730) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Manager, Sustainable Infrastructure - Oil and Gas, United States](https://unjobs.org/vacancies/1791968018522) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |

@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-14T3"
+    "muted": "2026-10-16T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,87 @@
   }
  },
  "jobs": [
+  {
+   "title": "CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792126888233",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Engineer – Oxy-Combustion, Brisbane, CA",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792126858201",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792101963327",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "Emergency WASH Officer, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792101952882",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792101948135",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792101947916",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083873447",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083872868",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-16",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792029648292",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-16",
+   "status": "open"
+  },
   {
    "title": "Field Office Engineer",
    "info": "via unvacancies · engineering",
