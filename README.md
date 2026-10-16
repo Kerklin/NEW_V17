@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**94 open jobs** · updated 2026-10-16 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**95 open jobs** · updated 2026-10-16 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -13,6 +13,7 @@
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | 🔴 7 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 7 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 10 days | 🟢 High |
+| [Construction & Site Manager, Menongue, Angola](https://unjobs.org/vacancies/1792155785200) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1792126888233) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Project Engineer – Oxy-Combustion, Brisbane, CA](https://unjobs.org/vacancies/1792126858201) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792101963327) 🆕 | via UNjobs · construction | – | check | 🟢 High |
