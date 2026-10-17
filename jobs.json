@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-16T3"
+    "muted": "2026-10-17T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Mobile Test Site Project Manager, Esparto, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792191044913",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-17",
+   "status": "open"
+  },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
    "info": "via UNjobs · construction",

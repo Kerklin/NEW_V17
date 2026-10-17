@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**102 open jobs** · updated 2026-10-17 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**103 open jobs** · updated 2026-10-17 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -15,6 +15,7 @@
 | [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) 🆕 | via unvacancies · UNOPS | 2026-10-26 | 9 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 9 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) 🆕 | via unvacancies · UNOPS | 2026-11-01 | 15 days | 🟢 High |
+| [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Safeguards Coordinator, Infrastructure, Port Moresby](https://unjobs.org/vacancies/1792126888621) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Infrastructure Short Term Adviser (STA)](https://unjobs.org/vacancies/1792126888482) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Construction & Site Manager, Menongue, Angola](https://unjobs.org/vacancies/1792155785200) 🆕 | via UNjobs · construction | – | check | 🟢 High |
