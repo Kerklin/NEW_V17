@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-18T0"
+    "muted": "2026-10-19T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,78 @@
   }
  },
  "jobs": [
+  {
+   "title": "Structural Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792411235453",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792411231706",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396939881",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "Emergency WASH Officer, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396932098",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396927995",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396927786",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "National Project Officer – Construction Engineer, Beirut",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396826266",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "Consultant: Field Engineer (READY), Pohnpei",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792368028760",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-19",
+   "status": "open"
+  },
   {
    "title": "Mobile Test Site Project Manager, Esparto, United States",
    "info": "via UNjobs · construction",
