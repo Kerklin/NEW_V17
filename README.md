@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**111 open jobs** · updated 2026-10-19 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**114 open jobs** · updated 2026-10-19 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -12,8 +12,11 @@
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 🔴 1 days | 🟢 High |
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | 🔴 4 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 4 days | 🟢 High |
+| [Structural Engineer](https://unvacancies.org/jobs/structural-engineer-N-286748) 🆕 | via unvacancies · engineering | 2026-10-25 | 🔴 6 days | 🟢 High |
+| [Project Engineer](https://unvacancies.org/jobs/project-engineer-N-286749) 🆕 | via unvacancies · engineering | 2026-10-25 | 🔴 6 days | 🟢 High |
 | [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) | via unvacancies · UNOPS | 2026-10-26 | 🔴 7 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 7 days | 🟢 High |
+| [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) 🆕 | via unvacancies · engineering | 2026-11-01 | 13 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 13 days | 🟢 High |
 | [Structural Engineer](https://unjobs.org/vacancies/1792411235453) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Project Engineer](https://unjobs.org/vacancies/1792411231706) 🆕 | via UNjobs · construction | – | check | 🟢 High |

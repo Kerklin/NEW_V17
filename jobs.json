@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-18T3"
+    "muted": "2026-10-19T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-19T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Structural Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/structural-engineer-N-286748",
+   "deadline": "2026-10-25",
+   "fit": "High",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/project-engineer-N-286749",
+   "deadline": "2026-10-25",
+   "fit": "High",
+   "found": "2026-10-19",
+   "status": "open"
+  },
+  {
+   "title": "Field Engineer Consultant – IOM READY FSM, RMI, ROP",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679",
+   "deadline": "2026-11-01",
+   "fit": "High",
+   "found": "2026-10-19",
+   "status": "open"
+  },
   {
    "title": "Structural Engineer",
    "info": "via UNjobs · construction",
