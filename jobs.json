@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-19T2"
+    "muted": "2026-10-20T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design, Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792476080480",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-20",
+   "status": "open"
+  },
+  {
+   "title": "MSDI - Management Services Assistant (Facilities) G5, Rome",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792472477228",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-20",
+   "status": "open"
+  },
+  {
+   "title": "100000001233.Facilities Coordinator, Doha",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792472450068",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-20",
+   "status": "open"
+  },
+  {
+   "title": "Consultant Field Engineer READY (two positions), Majuro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792440024693",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-20",
+   "status": "open"
+  },
+  {
+   "title": "Shelter & WASH Technical Officer, Shostka, Kyiv, Ukraine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792429248532",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-20",
+   "status": "open"
+  },
   {
    "title": "Structural Engineer",
    "info": "via unvacancies · engineering",

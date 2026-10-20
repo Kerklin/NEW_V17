@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**113 open jobs** · updated 2026-10-20 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**118 open jobs** · updated 2026-10-20 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -17,6 +17,9 @@
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 6 days | 🟢 High |
 | [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) 🆕 | via unvacancies · engineering | 2026-11-01 | 12 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 12 days | 🟢 High |
+| [MSDI - Management Services Assistant (Facilities) G5, Rome](https://unjobs.org/vacancies/1792472477228) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [100000001233.Facilities Coordinator, Doha](https://unjobs.org/vacancies/1792472450068) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Consultant Field Engineer READY (two positions), Majuro](https://unjobs.org/vacancies/1792440024693) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Structural Engineer](https://unjobs.org/vacancies/1792411235453) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Project Engineer](https://unjobs.org/vacancies/1792411231706) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792396939881) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -73,6 +76,8 @@
 | [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) | via unvacancies · engineering | 2026-10-28 | 8 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 10 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 27 days | 🟡 Medium |
+| [Assistant Architect Design, Amman](https://unjobs.org/vacancies/1792476080480) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Shelter & WASH Technical Officer, Shostka, Kyiv, Ukraine](https://unjobs.org/vacancies/1792429248532) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1792396932098) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792396927995) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1792396927786) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
