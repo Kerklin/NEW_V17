@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-21T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-21T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "Telecommunications/ Network Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/telecommunications-network-engineer-internally-for-unrwa-staff-only-A-286364",
+   "deadline": "2026-11-02",
+   "fit": "Medium",
+   "found": "2026-10-21",
+   "status": "open"
+  },
+  {
+   "title": "Assistant Architect Design",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/assistant-architect-design-A-286594",
+   "deadline": "2026-11-02",
+   "fit": "Medium",
+   "found": "2026-10-21",
+   "status": "open"
+  },
   {
    "title": "Consultant(e) national(e) en construction — appui à la gestion et suivi de proximité des projets d’infrastructures scolaires (Tanganyika), 9 mois, Kalemie, RDC, au bureau + missions, 596170",
    "info": "via UNjobs · construction",

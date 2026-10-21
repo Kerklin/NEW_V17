@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**117 open jobs** · updated 2026-10-21 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**119 open jobs** · updated 2026-10-21 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -74,6 +74,8 @@
 | [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) | via unvacancies · engineering | 2026-10-28 | 🔴 7 days | 🟡 Medium |
 | [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) | via unvacancies · engineering | 2026-10-28 | 🔴 7 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 9 days | 🟡 Medium |
+| [Telecommunications/ Network Engineer](https://unvacancies.org/jobs/telecommunications-network-engineer-internally-for-unrwa-staff-only-A-286364) 🆕 | via unvacancies · engineering | 2026-11-02 | 12 days | 🟡 Medium |
+| [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) 🆕 | via unvacancies · engineering | 2026-11-02 | 12 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 26 days | 🟡 Medium |
 | [Assistant Architect Design, Amman](https://unjobs.org/vacancies/1792476080480) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter & WASH Technical Officer, Shostka, Kyiv, Ukraine](https://unjobs.org/vacancies/1792429248532) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
