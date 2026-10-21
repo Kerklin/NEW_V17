@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-20T3"
+    "muted": "2026-10-21T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "WASH and Construction Officer, Kinshasa",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558930105",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-21",
+   "status": "open"
+  },
+  {
+   "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558903984",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-21",
+   "status": "open"
+  },
   {
    "title": "Telecommunications/ Network Engineer",
    "info": "via unvacancies · engineering",
