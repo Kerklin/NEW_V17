@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**124 open jobs** · updated 2026-10-22 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**130 open jobs** · updated 2026-10-22 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -16,6 +16,9 @@
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 4 days | 🟢 High |
 | [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) | via unvacancies · engineering | 2026-11-01 | 10 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 10 days | 🟢 High |
+| [Platform Engineer](https://unvacancies.org/jobs/platform-engineer-WB-38774) 🆕 | via unvacancies · engineering | 2026-11-03 | 12 days | 🟢 High |
+| [IC-Technical Engineer (Thai National Only)](https://unvacancies.org/jobs/ic-technical-engineer-thai-national-only-IC-50921) 🆕 | via unvacancies · engineering | 2026-11-04 | 13 days | 🟢 High |
+| [Senior AI Engineer, ICT](https://unvacancies.org/jobs/senior-ai-engineer-ict-AO-37690) 🆕 | via unvacancies · engineering | 2026-11-05 | 14 days | 🟢 High |
 | [Construction Management Engineer](https://unvacancies.org/jobs/construction-management-engineer-OPS-4927) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 14 days | 🟢 High |
 | [Project Manager (Transactional)](https://unvacancies.org/jobs/project-manager-transactional-OPS-4857) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 14 days | 🟢 High |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-4858) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 14 days | 🟢 High |
@@ -75,8 +78,11 @@
 | [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) | via unvacancies · engineering | 2026-10-28 | 🔴 6 days | 🟡 Medium |
 | [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) | via unvacancies · engineering | 2026-10-28 | 🔴 6 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 8 days | 🟡 Medium |
+| [Mid-Level Data Integration Engineer](https://unvacancies.org/jobs/mid-level-data-integration-engineer-21273377) 🆕 | via unvacancies · engineering | 2026-11-02 | 11 days | 🟡 Medium |
+| [National Project Officer – Construction Engineer](https://unvacancies.org/jobs/national-project-officer-construction-engineer-OM-23633) 🆕 | via unvacancies · engineering | 2026-11-02 | 11 days | 🟡 Medium |
 | [Telecommunications/ Network Engineer](https://unvacancies.org/jobs/telecommunications-network-engineer-internally-for-unrwa-staff-only-A-286364) 🆕 | via unvacancies · engineering | 2026-11-02 | 11 days | 🟡 Medium |
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) 🆕 | via unvacancies · engineering | 2026-11-02 | 11 days | 🟡 Medium |
+| [Assistant Architect Design (Architectural Modeling & 3D Visualization)](https://unvacancies.org/jobs/assistant-architect-design-architectural-modeling-3d-visualization-A-286585) 🆕 | via unvacancies · engineering | 2026-11-03 | 12 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 25 days | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792620310528) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1792620308394) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |

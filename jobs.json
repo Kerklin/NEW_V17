@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-21T1"
+    "muted": "2026-10-22T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-22T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,60 @@
   }
  },
  "jobs": [
+  {
+   "title": "Senior AI Engineer, ICT",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-ai-engineer-ict-AO-37690",
+   "deadline": "2026-11-05",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/assistant-architect-design-architectural-modeling-3d-visualization-A-286585",
+   "deadline": "2026-11-03",
+   "fit": "Medium",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "Platform Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/platform-engineer-WB-38774",
+   "deadline": "2026-11-03",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "IC-Technical Engineer (Thai National Only)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/ic-technical-engineer-thai-national-only-IC-50921",
+   "deadline": "2026-11-04",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "Mid-Level Data Integration Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mid-level-data-integration-engineer-21273377",
+   "deadline": "2026-11-02",
+   "fit": "Medium",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "National Project Officer – Construction Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/national-project-officer-construction-engineer-OM-23633",
+   "deadline": "2026-11-02",
+   "fit": "Medium",
+   "found": "2026-10-22",
+   "status": "open"
+  },
   {
    "title": "Construction Management Engineer",
    "info": "via unvacancies · UNOPS",
