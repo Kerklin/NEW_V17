@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-22T2"
+    "muted": "2026-10-22T3"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Construction Management Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/construction-management-engineer-OPS-4927",
+   "deadline": "2026-11-05",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (Transactional)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-transactional-OPS-4857",
+   "deadline": "2026-11-05",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-infrastructure-OPS-4858",
+   "deadline": "2026-11-05",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
    "info": "via UNjobs · construction",
