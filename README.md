@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**129 open jobs** · updated 2026-10-23 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**130 open jobs** · updated 2026-10-23 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -22,6 +22,7 @@
 | [Construction Management Engineer](https://unvacancies.org/jobs/construction-management-engineer-OPS-4927) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 13 days | 🟢 High |
 | [Project Manager (Transactional)](https://unvacancies.org/jobs/project-manager-transactional-OPS-4857) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 13 days | 🟢 High |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-4858) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 13 days | 🟢 High |
+| [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) 🆕 | via unvacancies · UN-Habitat | 2026-11-06 | 14 days | 🟢 High |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792620375334) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Technical Advisor I-Shelter & Settlements RAPID, United States](https://unjobs.org/vacancies/1792558903984) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Consultant(e) national(e) en construction — appui à la gestion et suivi de proximité des projets d’infrastructures scolaires (Tanganyika), 9 mois, Kalemie, RDC, au bureau + missions, 596170](https://unjobs.org/vacancies/1792515662903) | via UNjobs · construction | – | check | 🟢 High |

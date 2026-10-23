@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-18T3"
+    "muted": "2026-10-23T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Project Manager, Global Housing Hub",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598",
+   "deadline": "2026-11-06",
+   "fit": "High",
+   "found": "2026-10-23",
+   "status": "open"
+  },
   {
    "title": "Senior AI Engineer, ICT",
    "info": "via unvacancies · engineering",
