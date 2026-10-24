@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-21T3"
+    "muted": "2026-10-24T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,78 @@
   }
  },
  "jobs": [
+  {
+   "title": "Shelter & Wash Project Manager Chad Iriba (national only)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792774853017",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "Facilities Management Assistant, G4",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771412062",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "Housing Accessibility Policy and Design Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771406690",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "ENGINEER, Electrical (Duration 364 days), P4",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771412368",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771338232",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "Structural Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771336977",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771287516",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Engineer, Kabul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792677691805",
+   "deadline": "2026-11-05",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
   {
    "title": "Project Manager, Global Housing Hub",
    "info": "via unvacancies · UN-Habitat",
