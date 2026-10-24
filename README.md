@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**136 open jobs** · updated 2026-10-24 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**137 open jobs** · updated 2026-10-24 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -14,6 +14,7 @@
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 2 days | 🟢 High |
 | [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) | via unvacancies · engineering | 2026-11-01 | 8 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 8 days | 🟢 High |
+| [Cities and Climate Change Consultant – Multilevel Climate Action and Housing](https://unvacancies.org/jobs/cities-and-climate-change-consultant-multilevel-climate-action-and-housing-t-287020) 🆕 | via unvacancies · UN-Habitat | 2026-11-03 | 10 days | 🟢 High |
 | [Platform Engineer](https://unvacancies.org/jobs/platform-engineer-WB-38774) 🆕 | via unvacancies · engineering | 2026-11-03 | 10 days | 🟢 High |
 | [IC-Technical Engineer (Thai National Only)](https://unvacancies.org/jobs/ic-technical-engineer-thai-national-only-IC-50921) 🆕 | via unvacancies · engineering | 2026-11-04 | 11 days | 🟢 High |
 | [Construction Management Engineer, Kabul](https://unjobs.org/vacancies/1792677691805) 🆕 | via UNjobs · construction | 2026-11-05 | 12 days | 🟢 High |
