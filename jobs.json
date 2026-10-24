@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-22T3"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-24T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "IG Lead Quality Assurance Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-quality-assurance-engineer-36834058",
+   "deadline": "2026-10-29",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "Consultant/e international/e, révision de la Stratégie nationale de gestion des infrastructures d'eau potable en milieu rural en Côte d'Ivoire, WASH, Abidjan 8 mois teletravail+deplacements 596540",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/consultant-e-international-e-revision-de-la-strategie-nationale-de-gestion-des-infrastructures-d-eau-F-596540",
+   "deadline": "2026-11-06",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
+  {
+   "title": "Consultant Field Engineer READY (two positions)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/consultant-field-engineer-ready-two-positions-OM-23546",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-24",
+   "status": "open"
+  },
   {
    "title": "Cities and Climate Change Consultant – Multilevel Climate Action and Housing",
    "info": "via unvacancies · UN-Habitat",

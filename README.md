@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**137 open jobs** · updated 2026-10-24 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**140 open jobs** · updated 2026-10-24 · checks every 5 minutes · sources working today: 5 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -12,6 +12,7 @@
 | [Project Engineer](https://unvacancies.org/jobs/project-engineer-N-286749) | via unvacancies · engineering | 2026-10-25 | 🔴 1 days | 🟢 High |
 | [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) | via unvacancies · UNOPS | 2026-10-26 | 🔴 2 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 2 days | 🟢 High |
+| [IG Lead Quality Assurance Engineer](https://unvacancies.org/jobs/senior-quality-assurance-engineer-36834058) 🆕 | via unvacancies · engineering | 2026-10-29 | 🔴 5 days | 🟢 High |
 | [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) | via unvacancies · engineering | 2026-11-01 | 8 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 8 days | 🟢 High |
 | [Cities and Climate Change Consultant – Multilevel Climate Action and Housing](https://unvacancies.org/jobs/cities-and-climate-change-consultant-multilevel-climate-action-and-housing-t-287020) 🆕 | via unvacancies · UN-Habitat | 2026-11-03 | 10 days | 🟢 High |
@@ -22,7 +23,9 @@
 | [Construction Management Engineer](https://unvacancies.org/jobs/construction-management-engineer-OPS-4927) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 12 days | 🟢 High |
 | [Project Manager (Transactional)](https://unvacancies.org/jobs/project-manager-transactional-OPS-4857) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 12 days | 🟢 High |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-4858) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 12 days | 🟢 High |
+| [Consultant/e international/e, révision de la Stratégie nationale de gestion des infrastructures d'eau potable en milieu rural en Côte d'Ivoire, WASH, Abidjan 8 mois teletravail+deplacements 596540](https://unvacancies.org/jobs/consultant-e-international-e-revision-de-la-strategie-nationale-de-gestion-des-infrastructures-d-eau-F-596540) 🆕 | via unvacancies · engineering | 2026-11-06 | 13 days | 🟢 High |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) 🆕 | via unvacancies · UN-Habitat | 2026-11-06 | 13 days | 🟢 High |
+| [Consultant Field Engineer READY (two positions)](https://unvacancies.org/jobs/consultant-field-engineer-ready-two-positions-OM-23546) 🆕 | via unvacancies · engineering | – | check | 🟢 High |
 | [Shelter & Wash Project Manager Chad Iriba (national only)](https://unjobs.org/vacancies/1792774853017) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Facilities Management Assistant, G4](https://unjobs.org/vacancies/1792771412062) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Housing Accessibility Policy and Design Specialist](https://unjobs.org/vacancies/1792771406690) 🆕 | via UNjobs · construction | – | check | 🟢 High |
