@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**138 open jobs** · updated 2026-10-26 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**145 open jobs** · updated 2026-10-26 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -23,6 +23,9 @@
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-4858) | via unvacancies · UNOPS | 2026-11-05 | 10 days | 🟢 High |
 | [Consultant/e international/e, révision de la Stratégie nationale de gestion des infrastructures d'eau potable en milieu rural en Côte d'Ivoire, WASH, Abidjan 8 mois teletravail+deplacements 596540](https://unvacancies.org/jobs/consultant-e-international-e-revision-de-la-strategie-nationale-de-gestion-des-infrastructures-d-eau-F-596540) 🆕 | via unvacancies · engineering | 2026-11-06 | 11 days | 🟢 High |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 11 days | 🟢 High |
+| [Technical Program Manager, Facilities, South San Francisco, United States](https://unjobs.org/vacancies/1792808720722) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Associate Sector Specialist - Environment and Infrastructure, Luxembourg](https://unjobs.org/vacancies/1792808743799) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Director, Housing and Resilience Programs, Washington, United States](https://unjobs.org/vacancies/1792809233248) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Consultant Field Engineer READY (two positions)](https://unvacancies.org/jobs/consultant-field-engineer-ready-two-positions-OM-23546) 🆕 | via unvacancies · engineering | – | check | 🟢 High |
 | [Shelter & Wash Project Manager Chad Iriba (national only)](https://unjobs.org/vacancies/1792774853017) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Facilities Management Assistant, G4](https://unjobs.org/vacancies/1792771412062) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -92,6 +95,10 @@
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) | via unvacancies · engineering | 2026-11-02 | 🔴 7 days | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization)](https://unvacancies.org/jobs/assistant-architect-design-architectural-modeling-3d-visualization-A-286585) | via unvacancies · engineering | 2026-11-03 | 8 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 21 days | 🟡 Medium |
+| [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Assistant Architect Design, E](https://unjobs.org/vacancies/1792771324547) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Measurement, Cost And Contracts Engineer, Amman](https://unjobs.org/vacancies/1792771354211) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Field Office Engineer, West Bank](https://unjobs.org/vacancies/1792771359065) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792620310528) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1792620308394) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman](https://unjobs.org/vacancies/1792584094476) | via UNjobs · construction | – | check | 🟡 Medium |

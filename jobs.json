@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-24T0"
+    "muted": "2026-10-26T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,69 @@
   }
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771308767",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "Assistant Architect Design, E",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771324547",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "Measurement, Cost And Contracts Engineer, Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771354211",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "Field Office Engineer, West Bank",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771359065",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "Technical Program Manager, Facilities, South San Francisco, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792808720722",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "Associate Sector Specialist - Environment and Infrastructure, Luxembourg",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792808743799",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "Director, Housing and Resilience Programs, Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792809233248",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-26",
+   "status": "open"
+  },
   {
    "title": "IG Lead Quality Assurance Engineer",
    "info": "via unvacancies · engineering",
