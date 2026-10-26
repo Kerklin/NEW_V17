@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-26T2"
+    "muted": "2026-10-26T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1793030445542",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1793030444841",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-26",
+   "status": "open"
+  },
   {
    "title": "Senior Project Manager",
    "info": "via unvacancies · UNOPS",
