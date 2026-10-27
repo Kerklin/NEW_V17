@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-26T1"
+    "muted": "2026-10-27T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,78 @@
   }
  },
  "jobs": [
+  {
+   "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793120569990",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "WASH and Shelter Manager Ethiopia Dollo Ado",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793120569462",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793037691345",
+   "deadline": "2026-11-09",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793048987493",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Infrastructure Project Management Specialist (Long Term Personnel), Honiara",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793077276371",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Engineering and Shelter Team Leader, Bidibidi, Uganda",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793077258711",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Construction and Engineer, Program Design Specialist, Washington",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793049615470",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Resident Engineer, Dhusamareb, Somalia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793049721853",
+   "deadline": "2026-10-28",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
