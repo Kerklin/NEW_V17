@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-26T0"
+    "muted": "2026-10-28T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-28T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794",
+   "deadline": "2026-11-08",
+   "fit": "High",
+   "found": "2026-10-28",
+   "status": "open"
+  },
+  {
+   "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791",
+   "deadline": "2026-11-08",
+   "fit": "High",
+   "found": "2026-10-28",
+   "status": "open"
+  },
   {
    "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
    "info": "via UNjobs · construction",
