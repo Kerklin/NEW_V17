@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-28T1"
+    "muted": "2026-10-28T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568",
+   "deadline": "2026-11-11",
+   "fit": "High",
+   "found": "2026-10-28",
+   "status": "open"
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
    "info": "via unvacancies · engineering",
