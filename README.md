@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**155 open jobs** · updated 2026-10-29 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**157 open jobs** · updated 2026-10-29 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -28,6 +28,8 @@
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4944) | via unvacancies · UNOPS | 2026-11-09 | 11 days | 🟢 High |
 | [Housing Economist](https://unvacancies.org/jobs/housing-economist-t-286992) 🆕 | via unvacancies · UN-Habitat | 2026-11-10 | 12 days | 🟢 High |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) 🆕 | via unvacancies · engineering | 2026-11-11 | 13 days | 🟢 High |
+| [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) 🆕 | via unvacancies · engineering | 2026-11-12 | 14 days | 🟢 High |
+| [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) 🆕 | via unvacancies · engineering | 2026-11-12 | 14 days | 🟢 High |
 | [Wash and Shelter Project Manager Ethiopia North Amhara](https://unjobs.org/vacancies/1793120569990) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH and Shelter Manager Ethiopia Dollo Ado](https://unjobs.org/vacancies/1793120569462) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine](https://unjobs.org/vacancies/1793048987493) 🆕 | via UNjobs · construction | – | check | 🟢 High |

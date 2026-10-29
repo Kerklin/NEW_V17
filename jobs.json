@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-29T0"
+    "muted": "2026-10-29T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "Infrastructure Field Engineer (Consultant)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-10-29",
+   "status": "open"
+  },
+  {
+   "title": "Design Review Engineer – Bridges, Major Drainage, and Structural Works",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-10-29",
+   "status": "open"
+  },
   {
    "title": "Housing Economist",
    "info": "via unvacancies · UN-Habitat",
