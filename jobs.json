@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-29T2"
+    "muted": "2026-10-30T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-29T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Construction Management Senior Associate Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-5003",
+   "deadline": "2026-11-06",
+   "fit": "High",
+   "found": "2026-10-30",
+   "status": "open"
+  },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
    "info": "via unvacancies · engineering",
