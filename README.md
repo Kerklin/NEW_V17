@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**157 open jobs** · updated 2026-10-31 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**158 open jobs** · updated 2026-10-31 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -29,6 +29,7 @@
 | [Housing Economist](https://unvacancies.org/jobs/housing-economist-t-286992) | via unvacancies · UN-Habitat | 2026-11-10 | 10 days | 🟢 High |
 | [Senior Project Manager](https://unvacancies.org/jobs/senior-project-manager-OPS-4992) 🆕 | via unvacancies · UNOPS | 2026-11-11 | 11 days | 🟢 High |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 11 days | 🟢 High |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4953) 🆕 | via unvacancies · UNOPS | 2026-11-12 | 12 days | 🟢 High |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) 🆕 | via unvacancies · engineering | 2026-11-12 | 12 days | 🟢 High |
 | [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) 🆕 | via unvacancies · engineering | 2026-11-12 | 12 days | 🟢 High |
 | [Wash and Shelter Project Manager Ethiopia North Amhara](https://unjobs.org/vacancies/1793120569990) | via UNjobs · construction | – | check | 🟢 High |

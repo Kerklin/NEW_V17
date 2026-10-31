@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-30T3"
+    "muted": "2026-10-31T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/civil-engineer-OPS-4953",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-10-31",
+   "status": "open"
+  },
   {
    "title": "Senior Project Manager",
    "info": "via unvacancies · UNOPS",
