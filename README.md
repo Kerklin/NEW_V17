@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**158 open jobs** · updated 2026-11-01 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**168 open jobs** · updated 2026-11-01 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -29,9 +29,15 @@
 | [Housing Economist](https://unvacancies.org/jobs/housing-economist-t-286992) | via unvacancies · UN-Habitat | 2026-11-10 | 9 days | 🟢 High |
 | [Senior Project Manager](https://unvacancies.org/jobs/senior-project-manager-OPS-4992) 🆕 | via unvacancies · UNOPS | 2026-11-11 | 10 days | 🟢 High |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 10 days | 🟢 High |
+| [Civil Engineer](https://unjobs.org/vacancies/1793419279266) 🆕 | via UNjobs · construction | 2026-11-12 | 11 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4953) 🆕 | via unvacancies · UNOPS | 2026-11-12 | 11 days | 🟢 High |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 11 days | 🟢 High |
 | [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) | via unvacancies · engineering | 2026-11-12 | 11 days | 🟢 High |
+| [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Shelter Technical Assistant, Misrata, Libya](https://unjobs.org/vacancies/1793422874630) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [140 Assistant(e) Wash, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887968) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887438) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Chargé(e) de la Construction, Abidjan](https://unjobs.org/vacancies/1793422876156) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Wash and Shelter Project Manager Ethiopia North Amhara](https://unjobs.org/vacancies/1793120569990) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH and Shelter Manager Ethiopia Dollo Ado](https://unjobs.org/vacancies/1793120569462) | via UNjobs · construction | – | check | 🟢 High |
 | [PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine](https://unjobs.org/vacancies/1793048987493) | via UNjobs · construction | – | check | 🟢 High |
@@ -107,6 +113,8 @@
 | [Telecommunications/ Network Engineer](https://unvacancies.org/jobs/telecommunications-network-engineer-internally-for-unrwa-staff-only-A-286364) | via unvacancies · engineering | 2026-11-02 | 🔴 1 days | 🟡 Medium |
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) | via unvacancies · engineering | 2026-11-02 | 🔴 1 days | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization)](https://unvacancies.org/jobs/assistant-architect-design-architectural-modeling-3d-visualization-A-286585) | via unvacancies · engineering | 2026-11-03 | 🔴 2 days | 🟡 Medium |
+| [Construction Management Senior Associate Engineer](https://unjobs.org/vacancies/1793419279543) 🆕 | via UNjobs · construction | 2026-11-06 | 🔴 5 days | 🟡 Medium |
+| [Biomedical Engineer](https://unjobs.org/vacancies/1793419278992) 🆕 | via UNjobs · construction | 2026-11-08 | 🔴 7 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 15 days | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design, E](https://unjobs.org/vacancies/1792771324547) | via UNjobs · construction | – | check | 🟡 Medium |
@@ -160,6 +168,8 @@
 | [Shelter and WaSH Officer Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153601) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Wash & Shelter Coordinator CAR Bouar](https://unjobs.org/vacancies/1791109150945) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Consultant - Field Engineer (STRONG), Banjul](https://unjobs.org/vacancies/1791108068911) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Civil Engineer, Tripoli](https://unjobs.org/vacancies/1793365860777) 🆕 | via UNjobs · construction | 2026-11-03 | 🔴 2 days | ⚪ Low |
+| [Cryptography Evaluator Engineer, Redu, Belgium](https://unjobs.org/vacancies/1793365709954) 🆕 | via UNjobs · construction | 2026-11-17 | 16 days | ⚪ Low |
 | [Field Engineer COFAREADY, Koror](https://unjobs.org/vacancies/1791748932642) | via UNjobs · construction | – | check | ⚪ Low |
 | [Mechanical Engineer, Plant Process Systems, San Jose, California, United States](https://unjobs.org/vacancies/1791712547685) | via UNjobs · construction | – | check | ⚪ Low |
 | [Structural Engineer, South San Francisco, United States](https://unjobs.org/vacancies/1791712770719) | via UNjobs · construction | – | check | ⚪ Low |

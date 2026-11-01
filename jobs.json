@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-27T3"
+    "muted": "2026-11-01T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,96 @@
   }
  },
  "jobs": [
+  {
+   "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422858335",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "Shelter Technical Assistant, Misrata, Libya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422874630",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "Biomedical Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793419278992",
+   "deadline": "2026-11-08",
+   "fit": "Medium",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793419279266",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Senior Associate Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793419279543",
+   "deadline": "2026-11-06",
+   "fit": "Medium",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "140 Assistant(e) Wash, Goma, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422887968",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422887438",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "Chargé(e) de la Construction, Abidjan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422876156",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "Cryptography Evaluator Engineer, Redu, Belgium",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793365709954",
+   "deadline": "2026-11-17",
+   "fit": "Low",
+   "found": "2026-11-01",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer, Tripoli",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793365860777",
+   "deadline": "2026-11-03",
+   "fit": "Low",
+   "found": "2026-11-01",
+   "status": "open"
+  },
   {
    "title": "Civil Engineer",
    "info": "via unvacancies · UNOPS",
