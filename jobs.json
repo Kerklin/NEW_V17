@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-01T1"
+    "muted": "2026-11-02T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793534475645",
+   "deadline": "2026-11-14",
+   "fit": "High",
+   "found": "2026-11-02",
+   "status": "open"
+  },
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793577725467",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-02",
+   "status": "open"
+  },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
    "info": "via UNjobs · construction",

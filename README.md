@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**166 open jobs** · updated 2026-11-02 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**168 open jobs** · updated 2026-11-02 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -31,6 +31,7 @@
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4953) 🆕 | via unvacancies · UNOPS | 2026-11-12 | 10 days | 🟢 High |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 10 days | 🟢 High |
 | [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) | via unvacancies · engineering | 2026-11-12 | 10 days | 🟢 High |
+| [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) 🆕 | via UNjobs · construction | 2026-11-14 | 12 days | 🟢 High |
 | [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Shelter Technical Assistant, Misrata, Libya](https://unjobs.org/vacancies/1793422874630) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [140 Assistant(e) Wash, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887968) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -114,6 +115,7 @@
 | [Construction Management Senior Associate Engineer](https://unjobs.org/vacancies/1793419279543) 🆕 | via UNjobs · construction | 2026-11-06 | 🔴 4 days | 🟡 Medium |
 | [Biomedical Engineer](https://unjobs.org/vacancies/1793419278992) 🆕 | via UNjobs · construction | 2026-11-08 | 🔴 6 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 14 days | 🟡 Medium |
+| [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design, E](https://unjobs.org/vacancies/1792771324547) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Measurement, Cost And Contracts Engineer, Amman](https://unjobs.org/vacancies/1792771354211) | via UNjobs · construction | – | check | 🟡 Medium |
