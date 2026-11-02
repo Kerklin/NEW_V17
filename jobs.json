@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-30T2"
+    "muted": "2026-11-02T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-11-01T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924",
+   "deadline": "2026-11-14",
+   "fit": "High",
+   "found": "2026-11-02",
+   "status": "open"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via UNjobs · construction",
