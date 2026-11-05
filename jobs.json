@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-04T1"
+    "muted": "2026-11-05T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-05",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,60 @@
   }
  },
  "jobs": [
+  {
+   "title": "Solution Engineer, Manager (Airport Master Systems Integration (MSI), Delhi, India",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793845755835",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "WASH Specialist, NO-3, TA (364 days), #138986,Kaduna, Nigeria- WCAR",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793898055945",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer, Bishkek",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793887285422",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (Infrastructure), Colombo, Sri Lanka",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793858479927",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "Project Officer - Infrastructure, Adamawa, Nigeria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793854868387",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "Shelter Field Officer, Tyre, Lebanon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793854860216",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-05",
+   "status": "open"
+  },
   {
    "title": "Project Manager (Infrastructure)",
    "info": "via unvacancies · UNOPS",

@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**165 open jobs** · updated 2026-11-05 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**171 open jobs** · updated 2026-11-05 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -31,8 +31,12 @@
 | [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) | via unvacancies · engineering | 2026-11-12 | 🔴 7 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 9 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | 2026-11-14 | 9 days | 🟢 High |
+| [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) 🆕 | via UNjobs · construction | 2026-11-19 | 14 days | 🟢 High |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099) 🆕 | via unvacancies · UNOPS | 2026-11-19 | 14 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) 🆕 | via unvacancies · UNOPS | 2026-11-25 | 20 days | 🟢 High |
+| [Solution Engineer, Manager (Airport Master Systems Integration (MSI), Delhi, India](https://unjobs.org/vacancies/1793845755835) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Specialist, NO-3, TA (364 days), #138986,Kaduna, Nigeria- WCAR](https://unjobs.org/vacancies/1793898055945) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Project Officer - Infrastructure, Adamawa, Nigeria](https://unjobs.org/vacancies/1793854868387) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) | via UNjobs · construction | – | check | 🟢 High |
 | [Shelter Technical Assistant, Misrata, Libya](https://unjobs.org/vacancies/1793422874630) | via UNjobs · construction | – | check | 🟢 High |
 | [140 Assistant(e) Wash, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887968) | via UNjobs · construction | – | check | 🟢 High |
@@ -113,6 +117,8 @@
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 11 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5059) 🆕 | via unvacancies · UNOPS | 2026-11-17 | 12 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5058) 🆕 | via unvacancies · UNOPS | 2026-11-17 | 12 days | 🟡 Medium |
+| [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) 🆕 | via UNjobs · construction | 2026-11-25 | 20 days | 🟡 Medium |
+| [Shelter Field Officer, Tyre, Lebanon](https://unjobs.org/vacancies/1793854860216) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design, E](https://unjobs.org/vacancies/1792771324547) | via UNjobs · construction | – | check | 🟡 Medium |
