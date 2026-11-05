@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-31T1"
+    "muted": "2026-11-05T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-05",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/mechanical-engineer-OPS-5059",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/mechanical-engineer-OPS-5058",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "found": "2026-11-05",
+   "status": "open"
+  },
+  {
+   "title": "Deputy Director, Infrastructure & Project Management (a.i)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/deputy-director-infrastructure-project-management-a-i-OPS-5041",
+   "deadline": "2026-11-10",
+   "fit": "High",
+   "found": "2026-11-05",
+   "status": "open"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · engineering",
