@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**176 open jobs** · updated 2026-11-06 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**177 open jobs** · updated 2026-11-06 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -36,6 +36,7 @@
 | [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39309) 🆕 | via unvacancies · engineering | 2026-11-19 | 13 days | 🟢 High |
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) 🆕 | via UNjobs · construction | 2026-11-19 | 13 days | 🟢 High |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099) 🆕 | via unvacancies · UNOPS | 2026-11-19 | 13 days | 🟢 High |
+| [Infrastructure Engineering Analyst (Firewall Engineering)](https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288) 🆕 | via unvacancies · engineering | 2026-11-20 | 14 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) 🆕 | via unvacancies · UNOPS | 2026-11-25 | 19 days | 🟢 High |
 | [Solution Engineer, Manager (Airport Master Systems Integration (MSI), Delhi, India](https://unjobs.org/vacancies/1793845755835) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Specialist, NO-3, TA (364 days), #138986,Kaduna, Nigeria- WCAR](https://unjobs.org/vacancies/1793898055945) 🆕 | via UNjobs · construction | – | check | 🟢 High |

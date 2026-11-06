@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-06T2"
+    "muted": "2026-11-06T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Infrastructure Engineering Analyst (Firewall Engineering)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288",
+   "deadline": "2026-11-20",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
   {
    "title": "Information and Communications Technology (ICT) Officer (Cloud SecOps Engineer) (P)",
    "info": "via unvacancies · engineering",
