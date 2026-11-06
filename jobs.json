@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-05T1"
+    "muted": "2026-11-06T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-05",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "ICT Senior Analyst – ICT Project Management (Data Architect)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/ict-senior-analyst-ict-project-management-data-architect-OPS-4950",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "found": "2026-11-06",
+   "status": "open"
+  },
+  {
+   "title": "Salesforce Marketing Cloud Architect",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/civil-engineer-OPS-5117",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "found": "2026-11-06",
+   "status": "open"
+  },
   {
    "title": "Solution Engineer, Manager (Airport Master Systems Integration (MSI), Delhi, India",
    "info": "via UNjobs · construction",
