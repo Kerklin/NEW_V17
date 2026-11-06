@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**169 open jobs** · updated 2026-11-06 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**176 open jobs** · updated 2026-11-06 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -16,8 +16,10 @@
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) | via UNjobs · construction | 2026-11-09 | 🔴 3 days | 🟢 High |
 | [Senior Project Manager](https://unvacancies.org/jobs/senior-project-manager-OPS-4824) | via unvacancies · UNOPS | 2026-11-09 | 🔴 3 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4944) | via unvacancies · UNOPS | 2026-11-09 | 🔴 3 days | 🟢 High |
+| [Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel), Nationals Only](https://unvacancies.org/jobs/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-F-596783) 🆕 | via unvacancies · engineering | 2026-11-10 | 🔴 4 days | 🟢 High |
 | [Deputy Director, Infrastructure & Project Management (a.i)](https://unvacancies.org/jobs/deputy-director-infrastructure-project-management-a-i-OPS-5041) 🆕 | via unvacancies · UNOPS | 2026-11-10 | 🔴 4 days | 🟢 High |
 | [Housing Economist](https://unvacancies.org/jobs/housing-economist-t-286992) | via unvacancies · UN-Habitat | 2026-11-10 | 🔴 4 days | 🟢 High |
+| [Project Engineer](https://unvacancies.org/jobs/project-engineer-N-287748) 🆕 | via unvacancies · engineering | 2026-11-11 | 🔴 5 days | 🟢 High |
 | [Senior Project Manager](https://unvacancies.org/jobs/senior-project-manager-OPS-4992) | via unvacancies · UNOPS | 2026-11-11 | 🔴 5 days | 🟢 High |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 🔴 5 days | 🟢 High |
 | [Salesforce Marketing Cloud Architect](https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107) 🆕 | via unvacancies · UNOPS | 2026-11-12 | 🔴 6 days | 🟢 High |
@@ -27,6 +29,11 @@
 | [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) | via unvacancies · engineering | 2026-11-12 | 🔴 6 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 8 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | 2026-11-14 | 8 days | 🟢 High |
+| [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) 🆕 | via unvacancies · engineering | 2026-11-17 | 11 days | 🟢 High |
+| [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) 🆕 | via unvacancies · engineering | 2026-11-17 | 11 days | 🟢 High |
+| [Information and Communications Technology (ICT) Officer (Cloud SecOps Engineer) (P)](https://unvacancies.org/jobs/information-and-communications-technology-ict-officer-cloud-secops-engineer-p-OM-23907) 🆕 | via unvacancies · engineering | 2026-11-18 | 12 days | 🟢 High |
+| [Engineer – SC8 – Skardu, Gilgit Baltistan](https://unvacancies.org/jobs/engineer-sc8-skardu-gilgit-baltistan-22068878) 🆕 | via unvacancies · engineering | 2026-11-18 | 12 days | 🟢 High |
+| [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39309) 🆕 | via unvacancies · engineering | 2026-11-19 | 13 days | 🟢 High |
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) 🆕 | via UNjobs · construction | 2026-11-19 | 13 days | 🟢 High |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099) 🆕 | via unvacancies · UNOPS | 2026-11-19 | 13 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) 🆕 | via unvacancies · UNOPS | 2026-11-25 | 19 days | 🟢 High |

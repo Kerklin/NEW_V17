@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-02T3"
+    "muted": "2026-11-06T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-11-04T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-02",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,69 @@
   }
  },
  "jobs": [
+  {
+   "title": "Information and Communications Technology (ICT) Officer (Cloud SecOps Engineer) (P)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/information-and-communications-technology-ict-officer-cloud-secops-engineer-p-OM-23907",
+   "deadline": "2026-11-18",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
+  {
+   "title": "Network Automation/DDI Engineer (Associate Infrastructure Engineer)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39309",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/project-engineer-N-287748",
+   "deadline": "2026-11-11",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
+  {
+   "title": "Engineer – SC8 – Skardu, Gilgit Baltistan",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/engineer-sc8-skardu-gilgit-baltistan-22068878",
+   "deadline": "2026-11-18",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
+  {
+   "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
+  {
+   "title": "(Senior) Investment Officer, Infrastructure Europe",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
+  {
+   "title": "Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel), Nationals Only",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-F-596783",
+   "deadline": "2026-11-10",
+   "fit": "High",
+   "found": "2026-11-06",
+   "status": "open"
+  },
   {
    "title": "ICT Senior Analyst – ICT Project Management (Data Architect)",
    "info": "via unvacancies · UNOPS",
