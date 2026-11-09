@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-08T0"
+    "muted": "2026-11-09T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-08",
+    "last_ok": "2026-11-09",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1794157239920",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-09",
+   "status": "open"
+  },
   {
    "title": "Infrastructure Engineering Analyst (Firewall Engineering)",
    "info": "via unvacancies · engineering",
