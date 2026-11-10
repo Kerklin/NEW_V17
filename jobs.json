@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-06T0"
+    "muted": "2026-11-10T3"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Design Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/design-engineer-OPS-5053",
+   "deadline": "2026-11-24",
+   "fit": "High",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/mechanical-engineer-OPS-4894",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "Quality Control Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/quality-control-engineer-OPS-5102",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Senior Associate Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-4886",
+   "deadline": "2026-11-16",
+   "fit": "High",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Lead Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948",
+   "deadline": "2026-11-16",
+   "fit": "High",
+   "found": "2026-11-10",
+   "status": "open"
+  },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina",
    "info": "via UNjobs · Bosnia and Herzegovina",
