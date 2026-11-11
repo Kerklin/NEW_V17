@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-11T0"
+    "muted": "2026-11-11T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Operating Engineer, Plant Operations",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-11",
+   "status": "open"
+  },
   {
    "title": "Engineer",
    "info": "via unvacancies · engineering",
