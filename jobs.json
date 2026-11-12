@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-11T3"
+    "muted": "2026-11-12T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-11-10T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-11",
+    "last_ok": "2026-11-12",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,42 @@
   }
  },
  "jobs": [
+  {
+   "title": "Civil Engineer (Quantity Surveying & Cost Estimation)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-quantity-surveying-cost-estimation-OPS-5103",
+   "deadline": "2026-11-18",
+   "fit": "Medium",
+   "found": "2026-11-12",
+   "status": "open"
+  },
+  {
+   "title": "Senior Director, Infrastructure",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-12",
+   "status": "open"
+  },
+  {
+   "title": "Lead Architect",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/lead-architect-OPS-5145",
+   "deadline": "2026-11-15",
+   "fit": "High",
+   "found": "2026-11-12",
+   "status": "open"
+  },
+  {
+   "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000",
+   "deadline": "2026-11-20",
+   "fit": "Medium",
+   "found": "2026-11-12",
+   "status": "open"
+  },
   {
    "title": "Operating Engineer, Plant Operations",
    "info": "via unvacancies · engineering",
