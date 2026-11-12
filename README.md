@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**174 open jobs** · updated 2026-11-12 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**175 open jobs** · updated 2026-11-12 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -16,6 +16,7 @@
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 🔴 2 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | 2026-11-14 | 🔴 2 days | 🟢 High |
 | [Lead Architect](https://unvacancies.org/jobs/lead-architect-OPS-5145) 🆕 | via unvacancies · engineering | 2026-11-15 | 🔴 3 days | 🟢 High |
+| [Project Manager (EU CEF Programme)](https://unvacancies.org/jobs/project-manager-eu-cef-programme-OPS-5083) 🆕 | via unvacancies · UNOPS | 2026-11-16 | 🔴 4 days | 🟢 High |
 | [Construction Management Senior Associate Engineer](https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-4886) 🆕 | via unvacancies · UNOPS | 2026-11-16 | 🔴 4 days | 🟢 High |
 | [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948) 🆕 | via unvacancies · UNOPS | 2026-11-16 | 🔴 4 days | 🟢 High |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 🔴 5 days | 🟢 High |

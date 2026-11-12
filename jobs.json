@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-10T3"
+    "muted": "2026-11-12T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-12",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Project Manager (EU CEF Programme)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-eu-cef-programme-OPS-5083",
+   "deadline": "2026-11-16",
+   "fit": "High",
+   "found": "2026-11-12",
+   "status": "open"
+  },
   {
    "title": "Civil Engineer (Quantity Surveying & Cost Estimation)",
    "info": "via unvacancies · engineering",
