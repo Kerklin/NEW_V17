@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-11T1"
+    "muted": "2026-11-13T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-11",
+    "last_ok": "2026-11-13",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -1921,15 +1921,6 @@
    "link": "https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925",
    "deadline": "2026-10-20",
    "fit": "Medium",
-   "found": "2026-10-07",
-   "status": "open"
-  },
-  {
-   "title": "ENGINEER",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/engineer-N-286023",
-   "deadline": "2026-10-13",
-   "fit": "High",
    "found": "2026-10-07",
    "status": "open"
   },
