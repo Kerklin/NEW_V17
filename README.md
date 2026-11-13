@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**170 open jobs** · updated 2026-11-13 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**173 open jobs** · updated 2026-11-13 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -14,6 +14,9 @@
 | [Project Manager (EU CEF Programme)](https://unvacancies.org/jobs/project-manager-eu-cef-programme-OPS-5083) 🆕 | via unvacancies · UNOPS | 2026-11-16 | 🔴 3 days | 🟢 High |
 | [Construction Management Senior Associate Engineer](https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-4886) | via unvacancies · UNOPS | 2026-11-16 | 🔴 3 days | 🟢 High |
 | [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948) | via unvacancies · UNOPS | 2026-11-16 | 🔴 3 days | 🟢 High |
+| [Lead Biomedical Engineer](https://unvacancies.org/jobs/lead-biomedical-engineer-OPS-5131) 🆕 | via unvacancies · UNOPS | 2026-11-17 | 🔴 4 days | 🟢 High |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5096) 🆕 | via unvacancies · UNOPS | 2026-11-17 | 🔴 4 days | 🟢 High |
+| [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5162) 🆕 | via unvacancies · UNOPS | 2026-11-17 | 🔴 4 days | 🟢 High |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 🔴 4 days | 🟢 High |
 | [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) | via unvacancies · engineering | 2026-11-17 | 🔴 4 days | 🟢 High |
 | [Information and Communications Technology (ICT) Officer (Cloud SecOps Engineer) (P)](https://unvacancies.org/jobs/information-and-communications-technology-ict-officer-cloud-secops-engineer-p-OM-23907) | via unvacancies · engineering | 2026-11-18 | 🔴 5 days | 🟢 High |

@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-12T1"
+    "muted": "2026-11-13T2"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-12",
+    "last_ok": "2026-11-13",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Lead Biomedical Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/lead-biomedical-engineer-OPS-5131",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "found": "2026-11-13",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/civil-engineer-OPS-5096",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "found": "2026-11-13",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5162",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "found": "2026-11-13",
+   "status": "open"
+  },
   {
    "title": "Project Manager (EU CEF Programme)",
    "info": "via unvacancies · UNOPS",
