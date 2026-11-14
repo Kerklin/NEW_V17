@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**173 open jobs** · updated 2026-11-14 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**176 open jobs** · updated 2026-11-14 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -27,9 +27,11 @@
 | [Infrastructure Engineering Analyst (Firewall Engineering)](https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288) | via unvacancies · engineering | 2026-11-20 | 🔴 6 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer-N-288009) | via unvacancies · engineering | 2026-11-23 | 9 days | 🟢 High |
 | [Design Engineer](https://unvacancies.org/jobs/design-engineer-OPS-5053) | via unvacancies · UNOPS | 2026-11-24 | 10 days | 🟢 High |
+| [Senior Investment Officer, Infrastructure, the Caribbean Region](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-the-caribbean-region-WB-39419) 🆕 | via unvacancies · engineering | 2026-11-25 | 11 days | 🟢 High |
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) 🆕 | via unvacancies · engineering | 2026-11-25 | 11 days | 🟢 High |
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) | via unvacancies · engineering | 2026-11-25 | 11 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 11 days | 🟢 High |
+| [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) 🆕 | via unvacancies · engineering | 2026-11-26 | 12 days | 🟢 High |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1794157239920) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |
 | [Solution Engineer, Manager (Airport Master Systems Integration (MSI), Delhi, India](https://unjobs.org/vacancies/1793845755835) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Specialist, NO-3, TA (364 days), #138986,Kaduna, Nigeria- WCAR](https://unjobs.org/vacancies/1793898055945) | via UNjobs · construction | – | check | 🟢 High |
@@ -120,6 +122,7 @@
 | [Senior Facilities Management, Infrastructure & Sustainability Consultant](https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000) 🆕 | via unvacancies · engineering | 2026-11-20 | 🔴 6 days | 🟡 Medium |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5117) | via unvacancies · UNOPS | 2026-11-25 | 11 days | 🟡 Medium |
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · construction | 2026-11-25 | 11 days | 🟡 Medium |
+| [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) 🆕 | via unvacancies · engineering | 2026-11-26 | 12 days | 🟡 Medium |
 | [Shelter Field Officer, Tyre, Lebanon](https://unjobs.org/vacancies/1793854860216) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) | via UNjobs · construction | – | check | 🟡 Medium |

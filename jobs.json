@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-12T0"
+    "muted": "2026-11-14T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-11-14T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-12",
+    "last_ok": "2026-11-14",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "ET Consultant – Coastal Infrastructure Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "found": "2026-11-14",
+   "status": "open"
+  },
+  {
+   "title": "(Associate) Investment Officer, Infrastructure",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436",
+   "deadline": "2026-11-26",
+   "fit": "Medium",
+   "found": "2026-11-14",
+   "status": "open"
+  },
+  {
+   "title": "Senior Investment Officer, Infrastructure, the Caribbean Region",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-investment-officer-infrastructure-the-caribbean-region-WB-39419",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-14",
+   "status": "open"
+  },
   {
    "title": "Lead Biomedical Engineer",
    "info": "via unvacancies · UNOPS",
