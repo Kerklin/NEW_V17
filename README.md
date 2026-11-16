@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**174 open jobs** · updated 2026-11-16 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**181 open jobs** · updated 2026-11-16 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -29,6 +29,12 @@
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) | via unvacancies · engineering | 2026-11-25 | 9 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 9 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) 🆕 | via unvacancies · engineering | 2026-11-26 | 10 days | 🟢 High |
+| [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH/IPC Specialist](https://unjobs.org/vacancies/1794859325838) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Construction & Site Manager, Cúcuta, Colombia](https://unjobs.org/vacancies/1794331307792) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Engineer, Mindanao, Philippines](https://unjobs.org/vacancies/1794412365985) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Officer Bangladesh Cox's Bazar Ukhiya](https://unjobs.org/vacancies/1794373278690) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [YEMEN - WASH ADVISOR (F/M) - ADEN, Yemen](https://unjobs.org/vacancies/1794413039817) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://unjobs.org/vacancies/1794762040764) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1794157239920) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |
 | [Solution Engineer, Manager (Airport Master Systems Integration (MSI), Delhi, India](https://unjobs.org/vacancies/1793845755835) | via UNjobs · construction | – | check | 🟢 High |
@@ -121,6 +127,7 @@
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5117) | via unvacancies · UNOPS | 2026-11-25 | 9 days | 🟡 Medium |
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · construction | 2026-11-25 | 9 days | 🟡 Medium |
 | [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) 🆕 | via unvacancies · engineering | 2026-11-26 | 10 days | 🟡 Medium |
+| [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter Field Officer, Tyre, Lebanon](https://unjobs.org/vacancies/1793854860216) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) | via UNjobs · construction | – | check | 🟡 Medium |

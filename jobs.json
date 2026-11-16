@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-13T3"
+    "muted": "2026-11-16T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-13",
+    "last_ok": "2026-11-16",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,69 @@
   }
  },
  "jobs": [
+  {
+   "title": "Information Management Officer (WASH)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794859326088",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "WASH/IPC Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794859325838",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "Construction & Site Manager, Cúcuta, Colombia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794331307792",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "WASH Engineer, Mindanao, Philippines",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794412365985",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "WaSH and Shelter Technician",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794459680118",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "WASH Officer Bangladesh Cox's Bazar Ukhiya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794373278690",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "YEMEN - WASH ADVISOR (F/M) - ADEN, Yemen",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794413039817",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
    "info": "via UNjobs · Bosnia and Herzegovina",
