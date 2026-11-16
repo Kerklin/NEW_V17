@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-15T3"
+    "muted": "2026-11-16T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-11-14T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-15",
+    "last_ok": "2026-11-16",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -1767,15 +1767,6 @@
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1791565245476",
    "deadline": "",
-   "fit": "Medium",
-   "found": "2026-10-10",
-   "status": "open"
-  },
-  {
-   "title": "Sanitation Engineer (Drainage Project)",
-   "info": "via unvacancies · UN-Habitat",
-   "link": "https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289",
-   "deadline": "2026-10-16",
    "fit": "Medium",
    "found": "2026-10-10",
    "status": "open"
