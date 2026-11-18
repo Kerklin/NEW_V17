@@ -6,8 +6,8 @@
     "muted": "2026-11-17T2"
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "",
-    "muted": "2026-11-15T1"
+    "last_ok": "2026-11-18",
+    "muted": ""
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-15",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Senior Director, Infrastructure",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4238587/senior-director-infrastructure",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Deputy Project Manager",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/deputy-project-manager-OPS-5217",
+   "deadline": "2026-11-24",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Advisor, Financial Systems & Digital Infrastructure",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172",
+   "deadline": "2026-12-01",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
   {
    "title": "Information Management Officer (WASH)",
    "info": "via UNjobs · construction",
