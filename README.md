@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**172 open jobs** · updated 2026-11-18 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**175 open jobs** · updated 2026-11-18 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -14,6 +14,7 @@
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) | via UNjobs · construction | 2026-11-19 | 🔴 1 days | 🟢 High |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099) | via unvacancies · UNOPS | 2026-11-19 | 🔴 1 days | 🟢 High |
 | [Infrastructure Engineering Analyst (Firewall Engineering)](https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288) | via unvacancies · engineering | 2026-11-20 | 🔴 2 days | 🟢 High |
+| [Construction Management Engineer](https://unvacancies.org/jobs/construction-management-engineer-OPS-5251) 🆕 | via unvacancies · UNOPS | 2026-11-23 | 🔴 5 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer-N-288009) | via unvacancies · engineering | 2026-11-23 | 🔴 5 days | 🟢 High |
 | [Deputy Project Manager](https://unvacancies.org/jobs/deputy-project-manager-OPS-5217) 🆕 | via unvacancies · UNOPS | 2026-11-24 | 🔴 6 days | 🟢 High |
 | [Design Engineer](https://unvacancies.org/jobs/design-engineer-OPS-5053) | via unvacancies · UNOPS | 2026-11-24 | 🔴 6 days | 🟢 High |
@@ -24,6 +25,7 @@
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 7 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) | via unvacancies · engineering | 2026-11-26 | 8 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) 🆕 | via unvacancies · UNOPS | 2026-12-01 | 13 days | 🟢 High |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5183) 🆕 | via unvacancies · UNOPS | 2026-12-02 | 14 days | 🟢 High |
 | [Housing Counseling Program Manager](https://reliefweb.int/job/4238191/housing-counseling-program-manager) 🆕 | via ReliefWeb · shelter | 2027-01-31 | 74 days | 🟢 High |
 | [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH/IPC Specialist](https://unjobs.org/vacancies/1794859325838) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -119,6 +121,7 @@
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · construction | 2026-11-25 | 🔴 7 days | 🟡 Medium |
 | [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) | via unvacancies · engineering | 2026-11-26 | 8 days | 🟡 Medium |
 | [Consortium Project Manager Colombia Bogota](https://reliefweb.int/job/4238139/consortium-project-manager-colombia-bogota) 🆕 | via ReliefWeb · shelter | 2026-11-29 | 11 days | 🟡 Medium |
+| [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) 🆕 | via ReliefWeb · infrastructure | 2026-11-30 | 12 days | 🟡 Medium |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter Field Officer, Tyre, Lebanon](https://unjobs.org/vacancies/1793854860216) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) | via UNjobs · construction | – | check | 🟡 Medium |
