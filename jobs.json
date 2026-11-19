@@ -6,7 +6,7 @@
     "muted": "2026-11-17T2"
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -1580,15 +1580,6 @@
    "deadline": "2026-10-28",
    "fit": "Medium",
    "found": "2026-10-15",
-   "status": "open"
-  },
-  {
-   "title": "AI Engineer Consultant",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363",
-   "deadline": "2026-10-19",
-   "fit": "High",
-   "found": "2026-10-14",
    "status": "open"
   },
   {
