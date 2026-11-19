@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Programme Manager Ukraine",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4238714/programme-manager-ukraine",
+   "deadline": "2026-12-15",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Junior Housing and Urban Resilience Consultant",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/junior-housing-and-urban-resilience-consultant-t-288412",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
   {
    "title": "Humanitarian Mine Action Project Manager (Programme Manager)",
    "info": "via ReliefWeb · infrastructure",
