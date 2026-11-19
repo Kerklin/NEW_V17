@@ -18,8 +18,8 @@
     "muted": "2026-11-17T3"
    },
    "ReliefWeb · engineer": {
-    "last_ok": "",
-    "muted": "2026-11-16T3"
+    "last_ok": "2026-11-19",
+    "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-16",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,168 @@
   }
  },
  "jobs": [
+  {
+   "title": "Release Train Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238504/release-train-engineer",
+   "deadline": "2026-11-23",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Engineer – School Rehabilitation",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238413/engineer-school-rehabilitation",
+   "deadline": "2026-11-20",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "WASH Engineer - Mindanao (Filipino Nationals Only)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Roads Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4237601/roads-engineer",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "AI Platform Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4233231/ai-platform-engineer",
+   "deadline": "2026-12-08",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4232579/sudan-wash-program-manager-mf-west-and-central-darfur",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term",
+   "deadline": "2026-12-08",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Tupande Electrical Maintenance Engineer / Specialist (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4226604/tupande-electrical-maintenance-engineer-specialist-fixed-term",
+   "deadline": "2026-11-20",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Tupande Mechanical Maintenance Engineer / Specialist (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4226603/tupande-mechanical-maintenance-engineer-specialist-fixed-term",
+   "deadline": "2026-11-20",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Field Monitoring Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4219684/field-monitoring-engineer",
+   "deadline": "2026-12-31",
+   "fit": "High",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "CONTRACTOR FOR CONSTRUCTION, INSTALLATION AND COMMISSIONING OF FOUR (4) FIXED-DO, Kathmandu, Nepal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795098271507",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795089717459",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Shelter Specialist, Kasulu, Tanzania",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795082503084",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Infrastructure Coordinator, Kisangani, Democratic Republic of the Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795016943231",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794996082781",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Lead Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795075281189",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Shelter Associate, Sittwe, Myanmar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795064507799",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-19",
+   "status": "open"
+  },
+  {
+   "title": "Senior / Staff Mechanical Engineer, San Jose",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795064466232",
+   "deadline": "",
+   "fit": "Low",
+   "found": "2026-11-19",
+   "status": "open"
+  },
   {
    "title": "WASH & Shelter Project Manager - Deir ez-Zor",
    "info": "via ReliefWeb · shelter",
