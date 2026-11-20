@@ -6,7 +6,7 @@
     "muted": "2026-11-17T2"
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd",
+   "deadline": "2026-12-17",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
+  {
+   "title": "Lead Civil Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/lead-civil-engineer-OPS-5097",
+   "deadline": "2026-12-03",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
   {
    "title": "Release Train Engineer",
    "info": "via ReliefWeb · engineer",
@@ -2327,24 +2354,6 @@
    "deadline": "",
    "fit": "Medium",
    "found": "2026-10-07",
-   "status": "open"
-  },
-  {
-   "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925",
-   "deadline": "2026-10-20",
-   "fit": "Medium",
-   "found": "2026-10-07",
-   "status": "open"
-  },
-  {
-   "title": "Engineer",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/engineer--4018010",
-   "deadline": "2026-10-20",
-   "fit": "High",
-   "found": "2026-10-06",
    "status": "open"
   },
   {
