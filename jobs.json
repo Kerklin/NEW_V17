@@ -2,8 +2,8 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "",
-    "muted": "2026-11-17T2"
+    "last_ok": "2026-11-20",
+    "muted": ""
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-20",
@@ -26,7 +26,7 @@
     "muted": "2026-11-16T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "RISE Digital Infrastructure Consultant, Nationals only, 12 months, Nairobi, office-based + travel",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/rise-digital-infrastructure-consultant-nationals-only-12-months-nairobi-office-based-travel-F-597114",
+   "deadline": "2026-12-03",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-OPS-5300",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
+  {
+   "title": "Trade ETL Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/trade-etl-engineer-A-288739",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
+  {
+   "title": "Mobile Engineer Specialist",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mobile-engineer-specialist-10213688",
+   "deadline": "2026-12-06",
+   "fit": "Medium",
+   "found": "2026-11-20",
+   "status": "open"
+  },
+  {
+   "title": "Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081 (Malakal, Wau)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/batch-of-2-positions-construction-engineer-officer-no-1-ta-11-months-00139082-00139081-malakal-wau-s-F-597124",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
   {
    "title": "Regional Housing Ecosystem & Partnership Associate Director",
    "info": "via ReliefWeb · infrastructure",

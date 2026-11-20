@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**203 open jobs** · updated 2026-11-20 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**208 open jobs** · updated 2026-11-20 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -26,19 +26,23 @@
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) | via unvacancies · engineering | 2026-11-25 | 🔴 5 days | 🟢 High |
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) | via unvacancies · engineering | 2026-11-25 | 🔴 5 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 5 days | 🟢 High |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5300) 🆕 | via unvacancies · engineering | 2026-11-26 | 🔴 6 days | 🟢 High |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) 🆕 | via ReliefWeb · infrastructure | 2026-11-26 | 🔴 6 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) | via unvacancies · engineering | 2026-11-26 | 🔴 6 days | 🟢 High |
+| [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081 (Malakal, Wau)](https://unvacancies.org/jobs/batch-of-2-positions-construction-engineer-officer-no-1-ta-11-months-00139082-00139081-malakal-wau-s-F-597124) 🆕 | via unvacancies · engineering | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [ERL Site Engineer - AL Mayadin](https://reliefweb.int/job/4239165/erl-site-engineer-al-mayadin) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [ERL Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239145/erl-project-manager-deir-ez-zor) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [Shelter Site Engineer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239136/shelter-site-engineer-al-mayadin-al-bukamal) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [WASH site engineer - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [Junior Housing and Urban Resilience Consultant](https://unvacancies.org/jobs/junior-housing-and-urban-resilience-consultant-t-288412) 🆕 | via unvacancies · UN-Habitat | 2026-11-27 | 🔴 7 days | 🟢 High |
+| [Trade ETL Engineer](https://unvacancies.org/jobs/trade-etl-engineer-A-288739) 🆕 | via unvacancies · engineering | 2026-11-29 | 9 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 9 days | 🟢 High |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) 🆕 | via ReliefWeb · engineer | 2026-11-29 | 9 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) 🆕 | via unvacancies · UNOPS | 2026-12-01 | 11 days | 🟢 High |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) 🆕 | via ReliefWeb · shelter | 2026-12-02 | 12 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5183) 🆕 | via unvacancies · UNOPS | 2026-12-02 | 12 days | 🟢 High |
+| [RISE Digital Infrastructure Consultant, Nationals only, 12 months, Nairobi, office-based + travel](https://unvacancies.org/jobs/rise-digital-infrastructure-consultant-nationals-only-12-months-nairobi-office-based-travel-F-597114) 🆕 | via unvacancies · engineering | 2026-12-03 | 13 days | 🟢 High |
 | [Lead Civil Engineer](https://unvacancies.org/jobs/lead-civil-engineer-OPS-5097) 🆕 | via unvacancies · UNOPS | 2026-12-03 | 13 days | 🟢 High |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-08 | 18 days | 🟢 High |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) 🆕 | via ReliefWeb · engineer | 2026-12-08 | 18 days | 🟢 High |
@@ -142,6 +146,7 @@
 | [Consortium Project Manager Colombia Bogota](https://reliefweb.int/job/4238139/consortium-project-manager-colombia-bogota) 🆕 | via ReliefWeb · shelter | 2026-11-29 | 9 days | 🟡 Medium |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) 🆕 | via ReliefWeb · infrastructure | 2026-11-30 | 10 days | 🟡 Medium |
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) 🆕 | via ReliefWeb · shelter | 2026-12-03 | 13 days | 🟡 Medium |
+| [Mobile Engineer Specialist](https://unvacancies.org/jobs/mobile-engineer-specialist-10213688) 🆕 | via unvacancies · engineering | 2026-12-06 | 16 days | 🟡 Medium |
 | [CONTRACTOR FOR CONSTRUCTION, INSTALLATION AND COMMISSIONING OF FOUR (4) FIXED-DO, Kathmandu, Nepal](https://unjobs.org/vacancies/1795098271507) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [WASH Specialist](https://unjobs.org/vacancies/1795089717459) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter Specialist, Kasulu, Tanzania](https://unjobs.org/vacancies/1795082503084) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
