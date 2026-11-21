@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**207 open jobs** · updated 2026-11-21 · checks every 5 minutes · sources working today: 6 of 12 · AI today: 0 of 130 requests
+**212 open jobs** · updated 2026-11-21 · checks every 5 minutes · sources working today: 8 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -51,6 +51,9 @@
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) 🆕 | via ReliefWeb · infrastructure | 2026-12-17 | 26 days | 🟢 High |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-31 | 40 days | 🟢 High |
 | [Housing Counseling Program Manager](https://reliefweb.int/job/4238191/housing-counseling-program-manager) | via ReliefWeb · shelter | 2027-01-31 | 71 days | 🟢 High |
+| [Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States](https://unjobs.org/vacancies/1795253353250) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan](https://unjobs.org/vacancies/1795194048635) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Nuclear Engineer (PRIS), IAEA Headquarters, Austria](https://unjobs.org/vacancies/1795150895962) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH/IPC Specialist](https://unjobs.org/vacancies/1794859325838) | via UNjobs · construction | – | check | 🟢 High |
 | [Construction & Site Manager, Cúcuta, Colombia](https://unjobs.org/vacancies/1794331307792) | via UNjobs · construction | – | check | 🟢 High |
@@ -146,6 +149,8 @@
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) | via ReliefWeb · infrastructure | 2026-11-30 | 9 days | 🟡 Medium |
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) 🆕 | via ReliefWeb · shelter | 2026-12-03 | 12 days | 🟡 Medium |
 | [Mobile Engineer Specialist](https://unvacancies.org/jobs/mobile-engineer-specialist-10213688) 🆕 | via unvacancies · engineering | 2026-12-06 | 15 days | 🟡 Medium |
+| [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [WaSH Field Officer (Infrastructure background) - Tyre](https://unjobs.org/vacancies/1795150864310) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [CONTRACTOR FOR CONSTRUCTION, INSTALLATION AND COMMISSIONING OF FOUR (4) FIXED-DO, Kathmandu, Nepal](https://unjobs.org/vacancies/1795098271507) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [WASH Specialist](https://unjobs.org/vacancies/1795089717459) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter Specialist, Kasulu, Tanzania](https://unjobs.org/vacancies/1795082503084) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |

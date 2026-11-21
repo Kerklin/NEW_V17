@@ -18,7 +18,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795253353250",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795194048635",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Nuclear Engineer (PRIS), IAEA Headquarters, Austria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150895962",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Irrigation And Rural Infrastructure Engineer, Rome",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150888034",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "WaSH Field Officer (Infrastructure background) - Tyre",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150864310",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
   {
    "title": "Programme Manager, Energy & Investment Planning",
    "info": "via unvacancies · UNOPS",
