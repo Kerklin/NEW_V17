@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,42 @@
   }
  },
  "jobs": [
+  {
+   "title": "Oficial WASH Shelter & Infrastructure - Maracaibo",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "WASH & Shelter Data entry - Deir ez-Zor",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor",
+   "deadline": "2026-11-27",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "WASH & Shelter Field monitor - AL Mayadin - AL-Bukamal - Tabni",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239139/wash-shelter-field-monitor-al-mayadin-al-bukamal-tabni",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "WASH & Shelter Project Officer - AL Mayadin - AL-Bukamal",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239122/wash-shelter-project-officer-al-mayadin-al-bukamal",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
   {
    "title": "RISE Digital Infrastructure Consultant, Nationals only, 12 months, Nairobi, office-based + travel",
    "info": "via unvacancies · engineering",
@@ -2123,15 +2159,6 @@
    "status": "open"
   },
   {
-   "title": "Biomedical Engineer, Bridgetown, Barbados",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791806042139",
-   "deadline": "2026-10-21",
-   "fit": "Medium",
-   "found": "2026-10-12",
-   "status": "open"
-  },
-  {
    "title": "Senior Field Operations Associate – Infrastructure, Cox's Bazar",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1791799243198",
@@ -2487,33 +2514,6 @@
    "info": "via unvacancies · UNOPS",
    "link": "https://unvacancies.org/jobs/senior-programme-manager-OPS-4692",
    "deadline": "2026-10-30",
-   "fit": "Medium",
-   "found": "2026-10-06",
-   "status": "open"
-  },
-  {
-   "title": "Housing Policy Analysis and Reporting Specialist",
-   "info": "via unvacancies · UN-Habitat",
-   "link": "https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341",
-   "deadline": "2026-10-21",
-   "fit": "Medium",
-   "found": "2026-10-06",
-   "status": "open"
-  },
-  {
-   "title": "Housing Accessibility Policy and Design Specialist",
-   "info": "via unvacancies · UN-Habitat",
-   "link": "https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486",
-   "deadline": "2026-10-21",
-   "fit": "Medium",
-   "found": "2026-10-06",
-   "status": "open"
-  },
-  {
-   "title": "Housing Accessibility Standards Specialist",
-   "info": "via unvacancies · UN-Habitat",
-   "link": "https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490",
-   "deadline": "2026-10-21",
    "fit": "Medium",
    "found": "2026-10-06",
    "status": "open"
