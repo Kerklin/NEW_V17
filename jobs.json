@@ -6,7 +6,7 @@
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Programme Manager, Energy & Investment Planning",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/programme-manager-energy-and-investment-planning-OPS-5284",
+   "deadline": "2026-12-04",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
   {
    "title": "Oficial WASH Shelter & Infrastructure - Maracaibo",
    "info": "via ReliefWeb · shelter",

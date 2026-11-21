@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**206 open jobs** · updated 2026-11-21 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**207 open jobs** · updated 2026-11-21 · checks every 5 minutes · sources working today: 6 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -42,6 +42,7 @@
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5183) | via unvacancies · UNOPS | 2026-12-02 | 11 days | 🟢 High |
 | [RISE Digital Infrastructure Consultant, Nationals only, 12 months, Nairobi, office-based + travel](https://unvacancies.org/jobs/rise-digital-infrastructure-consultant-nationals-only-12-months-nairobi-office-based-travel-F-597114) 🆕 | via unvacancies · engineering | 2026-12-03 | 12 days | 🟢 High |
 | [Lead Civil Engineer](https://unvacancies.org/jobs/lead-civil-engineer-OPS-5097) 🆕 | via unvacancies · UNOPS | 2026-12-03 | 12 days | 🟢 High |
+| [Programme Manager, Energy & Investment Planning](https://unvacancies.org/jobs/programme-manager-energy-and-investment-planning-OPS-5284) 🆕 | via unvacancies · UNOPS | 2026-12-04 | 13 days | 🟢 High |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-08 | 17 days | 🟢 High |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) 🆕 | via ReliefWeb · engineer | 2026-12-08 | 17 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · engineer | 2026-12-10 | 19 days | 🟢 High |
