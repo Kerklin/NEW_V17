@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**212 open jobs** · updated 2026-11-23 · checks every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**215 open jobs** · updated 2026-11-23 · checks every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -34,10 +34,13 @@
 | [WASH site engineer - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni) | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 4 days | 🟢 High |
 | [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 4 days | 🟢 High |
 | [Junior Housing and Urban Resilience Consultant](https://unvacancies.org/jobs/junior-housing-and-urban-resilience-consultant-t-288412) | via unvacancies · UN-Habitat | 2026-11-27 | 🔴 4 days | 🟢 High |
+| [Lead Engineer (Electrical)](https://unvacancies.org/jobs/lead-engineer-electrical-OPS-5276) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 6 days | 🟢 High |
 | [Trade ETL Engineer](https://unvacancies.org/jobs/trade-etl-engineer-A-288739) | via unvacancies · engineering | 2026-11-29 | 🔴 6 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) | via unvacancies · UNOPS | 2026-11-29 | 🔴 6 days | 🟢 High |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) | via ReliefWeb · engineer | 2026-11-29 | 🔴 6 days | 🟢 High |
+| [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-5033) 🆕 | via unvacancies · engineering | 2026-11-30 | 🔴 7 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) | via unvacancies · UNOPS | 2026-12-01 | 8 days | 🟢 High |
+| [ET Consultant (Associate Solutions Engineer)](https://unvacancies.org/jobs/e-t-consultant-associate-solutions-engineer-WB-39327) 🆕 | via unvacancies · engineering | 2026-12-02 | 9 days | 🟢 High |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) | via ReliefWeb · shelter | 2026-12-02 | 9 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5183) | via unvacancies · UNOPS | 2026-12-02 | 9 days | 🟢 High |
 | [RISE Digital Infrastructure Consultant, Nationals only, 12 months, Nairobi, office-based + travel](https://unvacancies.org/jobs/rise-digital-infrastructure-consultant-nationals-only-12-months-nairobi-office-based-travel-F-597114) | via unvacancies · engineering | 2026-12-03 | 10 days | 🟢 High |

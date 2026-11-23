@@ -2,7 +2,7 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
@@ -26,7 +26,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Lead Engineer (Electrical)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/lead-engineer-electrical-OPS-5276",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "found": "2026-11-23",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Lead Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-5033",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "found": "2026-11-23",
+   "status": "open"
+  },
+  {
+   "title": "ET Consultant (Associate Solutions Engineer)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/e-t-consultant-associate-solutions-engineer-WB-39327",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "found": "2026-11-23",
+   "status": "open"
+  },
   {
    "title": "Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States",
    "info": "via UNjobs · construction",
