@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**209 open jobs** · updated 2026-11-25 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**218 open jobs** · updated 2026-11-25 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -16,6 +16,7 @@
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) | via unvacancies · engineering | 2026-11-25 | 🔴 0 days | 🟢 High |
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) | via unvacancies · engineering | 2026-11-25 | 🔴 0 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 0 days | 🟢 High |
+| [Independent Infrastructure and Service Delivery Specialist Consultancy Services](https://reliefweb.int/job/4239687/independent-infrastructure-and-service-delivery-specialist-consultancy-services) 🆕 | via ReliefWeb · infrastructure | 2026-11-26 | 🔴 1 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5300) | via unvacancies · engineering | 2026-11-26 | 🔴 1 days | 🟢 High |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) | via ReliefWeb · infrastructure | 2026-11-26 | 🔴 1 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) | via unvacancies · engineering | 2026-11-26 | 🔴 1 days | 🟢 High |
@@ -28,10 +29,12 @@
 | [WASH site engineer - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni) | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 2 days | 🟢 High |
 | [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 2 days | 🟢 High |
 | [Junior Housing and Urban Resilience Consultant](https://unvacancies.org/jobs/junior-housing-and-urban-resilience-consultant-t-288412) | via unvacancies · UN-Habitat | 2026-11-27 | 🔴 2 days | 🟢 High |
+| [Senior Project Manager (Transactional)](https://unvacancies.org/jobs/senior-project-manager-transactional-OPS-5287) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 4 days | 🟢 High |
 | [Lead Engineer (Electrical)](https://unvacancies.org/jobs/lead-engineer-electrical-OPS-5276) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 4 days | 🟢 High |
 | [Trade ETL Engineer](https://unvacancies.org/jobs/trade-etl-engineer-A-288739) | via unvacancies · engineering | 2026-11-29 | 🔴 4 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) | via unvacancies · UNOPS | 2026-11-29 | 🔴 4 days | 🟢 High |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) | via ReliefWeb · engineer | 2026-11-29 | 🔴 4 days | 🟢 High |
+| [Project Manager (Transactional)](https://unvacancies.org/jobs/project-manager-transactional-OPS-5328) 🆕 | via unvacancies · UNOPS | 2026-11-30 | 🔴 5 days | 🟢 High |
 | [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-5033) 🆕 | via unvacancies · engineering | 2026-11-30 | 🔴 5 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) | via unvacancies · UNOPS | 2026-12-01 | 🔴 6 days | 🟢 High |
 | [ET Consultant (Associate Solutions Engineer)](https://unvacancies.org/jobs/e-t-consultant-associate-solutions-engineer-WB-39327) 🆕 | via unvacancies · engineering | 2026-12-02 | 🔴 7 days | 🟢 High |
@@ -44,6 +47,7 @@
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 13 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · engineer | 2026-12-10 | 15 days | 🟢 High |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 15 days | 🟢 High |
+| [Shelter and WASH Specialist Lebanon](https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon) 🆕 | via ReliefWeb · infrastructure | 2026-12-14 | 19 days | 🟢 High |
 | [Programme Manager Ukraine](https://reliefweb.int/job/4238714/programme-manager-ukraine) | via ReliefWeb · shelter | 2026-12-15 | 20 days | 🟢 High |
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) | via ReliefWeb · infrastructure | 2026-12-17 | 22 days | 🟢 High |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) | via ReliefWeb · engineer | 2026-12-31 | 36 days | 🟢 High |
@@ -141,11 +145,16 @@
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · construction | 2026-11-25 | 🔴 0 days | 🟡 Medium |
 | [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) | via unvacancies · engineering | 2026-11-26 | 🔴 1 days | 🟡 Medium |
 | [WASH & Shelter Data entry - Deir ez-Zor](https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 2 days | 🟡 Medium |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5314) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 4 days | 🟡 Medium |
+| [Project Manager (Implementation)](https://unvacancies.org/jobs/project-manager-implementation-OPS-5219) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 4 days | 🟡 Medium |
+| [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5282) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 4 days | 🟡 Medium |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5277) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 4 days | 🟡 Medium |
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) | via ReliefWeb · shelter | 2026-11-29 | 🔴 4 days | 🟡 Medium |
 | [Consortium Project Manager Colombia Bogota](https://reliefweb.int/job/4238139/consortium-project-manager-colombia-bogota) | via ReliefWeb · shelter | 2026-11-29 | 🔴 4 days | 🟡 Medium |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) | via ReliefWeb · infrastructure | 2026-11-30 | 🔴 5 days | 🟡 Medium |
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) | via ReliefWeb · shelter | 2026-12-03 | 8 days | 🟡 Medium |
 | [Mobile Engineer Specialist](https://unvacancies.org/jobs/mobile-engineer-specialist-10213688) | via unvacancies · engineering | 2026-12-06 | 11 days | 🟡 Medium |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · UNOPS | 2026-12-09 | 14 days | 🟡 Medium |
 | [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) | via UNjobs · construction | – | check | 🟡 Medium |
 | [WaSH Field Officer (Infrastructure background) - Tyre](https://unjobs.org/vacancies/1795150864310) | via UNjobs · construction | – | check | 🟡 Medium |
 | [CONTRACTOR FOR CONSTRUCTION, INSTALLATION AND COMMISSIONING OF FOUR (4) FIXED-DO, Kathmandu, Nepal](https://unjobs.org/vacancies/1795098271507) | via UNjobs · construction | – | check | 🟡 Medium |

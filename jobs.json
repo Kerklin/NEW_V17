@@ -6,7 +6,7 @@
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,87 @@
   }
  },
  "jobs": [
+  {
+   "title": "Independent Infrastructure and Service Delivery Specialist Consultancy Services",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239687/independent-infrastructure-and-service-delivery-specialist-consultancy-services",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Shelter and WASH Specialist Lebanon",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon",
+   "deadline": "2026-12-14",
+   "fit": "High",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (Transactional)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-transactional-OPS-5328",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/civil-engineer-OPS-5314",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (Implementation)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-implementation-OPS-5219",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Manager (Transactional)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-transactional-OPS-5287",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/mechanical-engineer-OPS-5282",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/civil-engineer-OPS-5277",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248",
+   "deadline": "2026-12-09",
+   "fit": "Medium",
+   "found": "2026-11-25",
+   "status": "open"
+  },
   {
    "title": "Lead Engineer (Electrical)",
    "info": "via unvacancies · engineering",
