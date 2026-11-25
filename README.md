@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**218 open jobs** · updated 2026-11-25 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**220 open jobs** · updated 2026-11-25 · checks every 5 minutes · sources working today: 6 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -152,9 +152,11 @@
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) | via ReliefWeb · shelter | 2026-11-29 | 🔴 4 days | 🟡 Medium |
 | [Consortium Project Manager Colombia Bogota](https://reliefweb.int/job/4238139/consortium-project-manager-colombia-bogota) | via ReliefWeb · shelter | 2026-11-29 | 🔴 4 days | 🟡 Medium |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) | via ReliefWeb · infrastructure | 2026-11-30 | 🔴 5 days | 🟡 Medium |
+| [Cash and Markets Project Manager Ukraine - open to internal candidates](https://reliefweb.int/job/4239984/cash-and-markets-project-manager-ukraine-open-internal-candidates) 🆕 | via ReliefWeb · shelter | 2026-12-02 | 🔴 7 days | 🟡 Medium |
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) | via ReliefWeb · shelter | 2026-12-03 | 8 days | 🟡 Medium |
 | [Mobile Engineer Specialist](https://unvacancies.org/jobs/mobile-engineer-specialist-10213688) | via unvacancies · engineering | 2026-12-06 | 11 days | 🟡 Medium |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · UNOPS | 2026-12-09 | 14 days | 🟡 Medium |
+| [Social Housing Policy and Strategy Consultant](https://reliefweb.int/job/4239800/social-housing-policy-and-strategy-consultant) 🆕 | via ReliefWeb · shelter | 2026-12-30 | 35 days | 🟡 Medium |
 | [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) | via UNjobs · construction | – | check | 🟡 Medium |
 | [WaSH Field Officer (Infrastructure background) - Tyre](https://unjobs.org/vacancies/1795150864310) | via UNjobs · construction | – | check | 🟡 Medium |
 | [CONTRACTOR FOR CONSTRUCTION, INSTALLATION AND COMMISSIONING OF FOUR (4) FIXED-DO, Kathmandu, Nepal](https://unjobs.org/vacancies/1795098271507) | via UNjobs · construction | – | check | 🟡 Medium |

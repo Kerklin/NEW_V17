@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "Cash and Markets Project Manager Ukraine - open to internal candidates",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239984/cash-and-markets-project-manager-ukraine-open-internal-candidates",
+   "deadline": "2026-12-02",
+   "fit": "Medium",
+   "found": "2026-11-25",
+   "status": "open"
+  },
+  {
+   "title": "Social Housing Policy and Strategy Consultant",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239800/social-housing-policy-and-strategy-consultant",
+   "deadline": "2026-12-30",
+   "fit": "Medium",
+   "found": "2026-11-25",
+   "status": "open"
+  },
   {
    "title": "Independent Infrastructure and Service Delivery Specialist Consultancy Services",
    "info": "via ReliefWeb · infrastructure",
