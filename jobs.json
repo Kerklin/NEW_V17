@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "2026-11-23",
-    "muted": ""
+    "muted": "2026-11-26T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-25",
@@ -26,7 +26,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,69 @@
   }
  },
  "jobs": [
+  {
+   "title": "ET Consultant – Infrastructure Investment",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/e-t-consultant-infrastructure-investment-WB-39626",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Procurement and Contract Management Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/procurement-and-contract-management-engineer-OPS-5336",
+   "deadline": "2026-12-01",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Biomedical Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/biomedical-engineer-OPS-5285",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Architectural Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/architectural-engineer-OPS-5279",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Associate Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/construction-management-associate-engineer-OPS-5324",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "ET Consultant, Investment Analyst, Infrastructure",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/e-t-consultant-investment-analyst-infrastructure-panama-WB-39616",
+   "deadline": "2026-12-09",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Charging Infrastructure & Transport Data Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/charging-infrastructure-transport-data-consultant-P-289005",
+   "deadline": "2026-12-04",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
   {
    "title": "Consultance – Gestionnaire Technique de Projets d’Abri – Shelter Research Unit (SRU) – Afrique de l’Est (AE)",
    "info": "via ReliefWeb · shelter",

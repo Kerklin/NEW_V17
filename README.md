@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**214 open jobs** · updated 2026-11-26 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**221 open jobs** · updated 2026-11-26 · checks every 5 minutes · sources working today: 5 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -21,6 +21,7 @@
 | [WASH site engineer - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni) | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 1 days | 🟢 High |
 | [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 1 days | 🟢 High |
 | [Junior Housing and Urban Resilience Consultant](https://unvacancies.org/jobs/junior-housing-and-urban-resilience-consultant-t-288412) | via unvacancies · UN-Habitat | 2026-11-27 | 🔴 1 days | 🟢 High |
+| [Construction Management Associate Engineer](https://unvacancies.org/jobs/construction-management-associate-engineer-OPS-5324) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟢 High |
 | [Senior Project Manager (Transactional)](https://unvacancies.org/jobs/senior-project-manager-transactional-OPS-5287) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 3 days | 🟢 High |
 | [Lead Engineer (Electrical)](https://unvacancies.org/jobs/lead-engineer-electrical-OPS-5276) | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟢 High |
 | [Trade ETL Engineer](https://unvacancies.org/jobs/trade-etl-engineer-A-288739) | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟢 High |
@@ -28,17 +29,21 @@
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) | via ReliefWeb · engineer | 2026-11-29 | 🔴 3 days | 🟢 High |
 | [Project Manager (Transactional)](https://unvacancies.org/jobs/project-manager-transactional-OPS-5328) 🆕 | via unvacancies · UNOPS | 2026-11-30 | 🔴 4 days | 🟢 High |
 | [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-5033) | via unvacancies · engineering | 2026-11-30 | 🔴 4 days | 🟢 High |
+| [Procurement and Contract Management Engineer](https://unvacancies.org/jobs/procurement-and-contract-management-engineer-OPS-5336) 🆕 | via unvacancies · engineering | 2026-12-01 | 🔴 5 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) | via unvacancies · UNOPS | 2026-12-01 | 🔴 5 days | 🟢 High |
 | [ET Consultant (Associate Solutions Engineer)](https://unvacancies.org/jobs/e-t-consultant-associate-solutions-engineer-WB-39327) | via unvacancies · engineering | 2026-12-02 | 🔴 6 days | 🟢 High |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) | via ReliefWeb · shelter | 2026-12-02 | 🔴 6 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5183) | via unvacancies · UNOPS | 2026-12-02 | 🔴 6 days | 🟢 High |
 | [RISE Digital Infrastructure Consultant, Nationals only, 12 months, Nairobi, office-based + travel](https://unvacancies.org/jobs/rise-digital-infrastructure-consultant-nationals-only-12-months-nairobi-office-based-travel-F-597114) | via unvacancies · engineering | 2026-12-03 | 🔴 7 days | 🟢 High |
 | [Lead Civil Engineer](https://unvacancies.org/jobs/lead-civil-engineer-OPS-5097) | via unvacancies · UNOPS | 2026-12-03 | 🔴 7 days | 🟢 High |
+| [Charging Infrastructure & Transport Data Consultant](https://unvacancies.org/jobs/charging-infrastructure-transport-data-consultant-P-289005) 🆕 | via unvacancies · engineering | 2026-12-04 | 8 days | 🟢 High |
 | [Programme Manager, Energy & Investment Planning](https://unvacancies.org/jobs/programme-manager-energy-and-investment-planning-OPS-5284) | via unvacancies · UNOPS | 2026-12-04 | 8 days | 🟢 High |
 | [Protection from Violence (PFV) Project Manager North-East Syria](https://reliefweb.int/job/4240125/protection-violence-pfv-project-manager-north-east-syria) 🆕 | via ReliefWeb · shelter | 2026-12-05 | 9 days | 🟢 High |
 | [Protection from Violence (PFV) Project Manager North-West Syria](https://reliefweb.int/job/4240124/protection-violence-pfv-project-manager-north-west-syria) 🆕 | via ReliefWeb · shelter | 2026-12-05 | 9 days | 🟢 High |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) | via ReliefWeb · engineer | 2026-12-08 | 12 days | 🟢 High |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 12 days | 🟢 High |
+| [ET Consultant, Investment Analyst, Infrastructure](https://unvacancies.org/jobs/e-t-consultant-investment-analyst-infrastructure-panama-WB-39616) 🆕 | via unvacancies · engineering | 2026-12-09 | 13 days | 🟢 High |
+| [ET Consultant – Infrastructure Investment](https://unvacancies.org/jobs/e-t-consultant-infrastructure-investment-WB-39626) 🆕 | via unvacancies · engineering | 2026-12-10 | 14 days | 🟢 High |
 | [Protection from Violence Project Manager South-Central Syria](https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 14 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · engineer | 2026-12-10 | 14 days | 🟢 High |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 14 days | 🟢 High |
@@ -138,6 +143,8 @@
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
 | [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) | via unvacancies · engineering | 2026-11-26 | 🔴 0 days | 🟡 Medium |
 | [WASH & Shelter Data entry - Deir ez-Zor](https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 1 days | 🟡 Medium |
+| [Biomedical Engineer](https://unvacancies.org/jobs/biomedical-engineer-OPS-5285) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟡 Medium |
+| [Architectural Engineer](https://unvacancies.org/jobs/architectural-engineer-OPS-5279) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟡 Medium |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5314) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 3 days | 🟡 Medium |
 | [Project Manager (Implementation)](https://unvacancies.org/jobs/project-manager-implementation-OPS-5219) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 3 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5282) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 3 days | 🟡 Medium |
