@@ -22,7 +22,7 @@
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "unvacancies · engineering": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-26",
     "muted": ""
    }
   }
@@ -2006,15 +2006,6 @@
    "status": "open"
   },
   {
-   "title": "Biomedical Lead Engineer",
-   "info": "via unvacancies · UNOPS",
-   "link": "https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796",
-   "deadline": "2026-10-26",
-   "fit": "High",
-   "found": "2026-10-16",
-   "status": "open"
-  },
-  {
    "title": "Construction & Site Manager, Menongue, Angola",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1792155785200",
@@ -2326,15 +2317,6 @@
    "link": "https://unjobs.org/vacancies/1791712770719",
    "deadline": "",
    "fit": "Low",
-   "found": "2026-10-12",
-   "status": "open"
-  },
-  {
-   "title": "Field Engineer COFAREADY",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535",
-   "deadline": "2026-10-26",
-   "fit": "High",
    "found": "2026-10-12",
    "status": "open"
   },
