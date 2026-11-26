@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**210 open jobs** · updated 2026-11-26 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**214 open jobs** · updated 2026-11-26 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -35,8 +35,11 @@
 | [RISE Digital Infrastructure Consultant, Nationals only, 12 months, Nairobi, office-based + travel](https://unvacancies.org/jobs/rise-digital-infrastructure-consultant-nationals-only-12-months-nairobi-office-based-travel-F-597114) | via unvacancies · engineering | 2026-12-03 | 🔴 7 days | 🟢 High |
 | [Lead Civil Engineer](https://unvacancies.org/jobs/lead-civil-engineer-OPS-5097) | via unvacancies · UNOPS | 2026-12-03 | 🔴 7 days | 🟢 High |
 | [Programme Manager, Energy & Investment Planning](https://unvacancies.org/jobs/programme-manager-energy-and-investment-planning-OPS-5284) | via unvacancies · UNOPS | 2026-12-04 | 8 days | 🟢 High |
+| [Protection from Violence (PFV) Project Manager North-East Syria](https://reliefweb.int/job/4240125/protection-violence-pfv-project-manager-north-east-syria) 🆕 | via ReliefWeb · shelter | 2026-12-05 | 9 days | 🟢 High |
+| [Protection from Violence (PFV) Project Manager North-West Syria](https://reliefweb.int/job/4240124/protection-violence-pfv-project-manager-north-west-syria) 🆕 | via ReliefWeb · shelter | 2026-12-05 | 9 days | 🟢 High |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) | via ReliefWeb · engineer | 2026-12-08 | 12 days | 🟢 High |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 12 days | 🟢 High |
+| [Protection from Violence Project Manager South-Central Syria](https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 14 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · engineer | 2026-12-10 | 14 days | 🟢 High |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 14 days | 🟢 High |
 | [Shelter and WASH Specialist Lebanon](https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon) 🆕 | via ReliefWeb · infrastructure | 2026-12-14 | 18 days | 🟢 High |
@@ -146,6 +149,7 @@
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) | via ReliefWeb · shelter | 2026-12-03 | 🔴 7 days | 🟡 Medium |
 | [Mobile Engineer Specialist](https://unvacancies.org/jobs/mobile-engineer-specialist-10213688) | via unvacancies · engineering | 2026-12-06 | 10 days | 🟡 Medium |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · UNOPS | 2026-12-09 | 13 days | 🟡 Medium |
+| [Consultance – Gestionnaire Technique de Projets d’Abri – Shelter Research Unit (SRU) – Afrique de l’Est (AE)](https://reliefweb.int/job/4240135/consultance-gestionnaire-technique-de-projets-dabri-shelter-research-unit-sru-afrique-de-lest-ae) 🆕 | via ReliefWeb · shelter | 2026-12-15 | 19 days | 🟡 Medium |
 | [Social Housing Policy and Strategy Consultant](https://reliefweb.int/job/4239800/social-housing-policy-and-strategy-consultant) 🆕 | via ReliefWeb · shelter | 2026-12-30 | 34 days | 🟡 Medium |
 | [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) | via UNjobs · construction | – | check | 🟡 Medium |
 | [WaSH Field Officer (Infrastructure background) - Tyre](https://unjobs.org/vacancies/1795150864310) | via UNjobs · construction | – | check | 🟡 Medium |

@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,42 @@
   }
  },
  "jobs": [
+  {
+   "title": "Consultance – Gestionnaire Technique de Projets d’Abri – Shelter Research Unit (SRU) – Afrique de l’Est (AE)",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240135/consultance-gestionnaire-technique-de-projets-dabri-shelter-research-unit-sru-afrique-de-lest-ae",
+   "deadline": "2026-12-15",
+   "fit": "Medium",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Protection from Violence (PFV) Project Manager North-East Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240125/protection-violence-pfv-project-manager-north-east-syria",
+   "deadline": "2026-12-05",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Protection from Violence (PFV) Project Manager North-West Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240124/protection-violence-pfv-project-manager-north-west-syria",
+   "deadline": "2026-12-05",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Protection from Violence Project Manager South-Central Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
   {
    "title": "Cash and Markets Project Manager Ukraine - open to internal candidates",
    "info": "via ReliefWeb · shelter",
