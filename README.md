@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**211 open jobs** · updated 2026-11-28 · checks every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**212 open jobs** · updated 2026-11-28 · checks every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Detailed fit scores, reasons and application packs are emailed privately and are not shown here.
 
@@ -36,6 +36,7 @@
 | [Protection from Violence Project Manager South-Central Syria](https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 12 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · engineer | 2026-12-10 | 12 days | 🟢 High |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 12 days | 🟢 High |
+| [Associate Platform Engineer](https://unvacancies.org/jobs/associate-platform-engineer-WB-39537) 🆕 | via unvacancies · engineering | 2026-12-11 | 13 days | 🟢 High |
 | [Shelter and WASH Specialist Lebanon](https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon) | via ReliefWeb · infrastructure | 2026-12-14 | 16 days | 🟢 High |
 | [Programme Manager Ukraine](https://reliefweb.int/job/4238714/programme-manager-ukraine) | via ReliefWeb · shelter | 2026-12-15 | 17 days | 🟢 High |
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) | via ReliefWeb · infrastructure | 2026-12-17 | 19 days | 🟢 High |

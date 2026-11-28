@@ -2,8 +2,8 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-23",
-    "muted": "2026-11-26T3"
+    "last_ok": "2026-11-28",
+    "muted": ""
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-28",
@@ -26,7 +26,7 @@
     "muted": "2026-11-27T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Associate Platform Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/associate-platform-engineer-WB-39537",
+   "deadline": "2026-12-11",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
   {
    "title": "Project Manager",
    "info": "via ReliefWeb · infrastructure",
