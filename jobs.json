@@ -6,7 +6,7 @@
     "muted": "2026-11-26T3"
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Project Manager",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4240232/project-manager",
+   "deadline": "2027-01-10",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager - Ukraine",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4240143/project-manager-ukraine",
+   "deadline": "2026-12-16",
+   "fit": "Medium",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "Specialiste Wash - RCA",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4240008/specialiste-wash-rca",
+   "deadline": "2026-12-09",
+   "fit": "Medium",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Manager (Health Systems)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-health-systems-OPS-5253",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "Senior Project Manager (Health Systems)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-health-systems-OPS-5252",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
   {
    "title": "ET Consultant – Infrastructure Investment",
    "info": "via unvacancies · engineering",
@@ -1529,15 +1574,6 @@
    "status": "open"
   },
   {
-   "title": "Resident Engineer, Dhusamareb, Somalia",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1793049721853",
-   "deadline": "2026-10-28",
-   "fit": "High",
-   "found": "2026-10-27",
-   "status": "open"
-  },
-  {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
    "link": "https://unjobs.org/vacancies/1793030445542",
@@ -2195,37 +2231,10 @@
    "status": "open"
   },
   {
-   "title": "Field Office Engineer",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/field-office-engineer-for-internal-candidates-fixed-term-icip-fo-west-bank-grade-A-285125",
-   "deadline": "2026-10-28",
-   "fit": "Medium",
-   "found": "2026-10-15",
-   "status": "open"
-  },
-  {
-   "title": "Technical Engineer Consultant",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343",
-   "deadline": "2026-10-28",
-   "fit": "Medium",
-   "found": "2026-10-15",
-   "status": "open"
-  },
-  {
    "title": "Team Leader IT Infrastructure – ICTP",
    "info": "via unvacancies · engineering",
    "link": "https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957",
    "deadline": "2026-11-16",
-   "fit": "Medium",
-   "found": "2026-10-15",
-   "status": "open"
-  },
-  {
-   "title": "Measurement, Cost and Contracts Engineer",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610",
-   "deadline": "2026-10-28",
    "fit": "Medium",
    "found": "2026-10-15",
    "status": "open"
